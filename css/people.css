@@ -1,7 +1,7 @@
 .version.people /* version checker */
 {
-	color: #0000F1;
-	background-color: #A86708;
+	color: #0000EF;
+	background-color: #B2F219;
 }
 
 .html
@@ -247,6 +247,19 @@
 	margin-left: 20px;
 	margin-top: 21px;
 	position: relative;
+}
+
+#u430_clip
+{
+	overflow: hidden;
+	width: 292px;
+	height: 365px;
+}
+
+#u430_img
+{
+	margin-top: -12px;
+	margin-bottom: -12px;
 }
 
 #pu429-13
