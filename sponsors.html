@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.musemenu.js", "sponsors.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "sponsors.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -12,9 +12,9 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4249042467"/>
   <link rel="stylesheet" type="text/css" href="css/master_interior-wimage.css?405749609"/>
-  <link rel="stylesheet" type="text/css" href="css/sponsors.css?4218240703" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/sponsors.css?4107949037" id="pagesheet"/>
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_sponsors.css?4197486895"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_sponsors.css?297342210"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -34,9 +34,9 @@ var __adobewebfontsappname__ = "muse";
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
     <div class="browser_width colelem" id="u520-bw">
-     <div id="u520"><!-- group -->
+     <div class="museBGSize" id="u520"><!-- group -->
       <div class="clearfix" id="u520_align_to_page">
-       <div class="clearfix grpelem" id="u521-4"><!-- content -->
+       <div class="rgba-background clearfix grpelem" id="u521-4"><!-- content -->
         <h1>IS&amp;T/ASC Co-Design Summer School</h1>
        </div>
       </div>
@@ -67,21 +67,21 @@ var __adobewebfontsappname__ = "muse";
       <div class="clearfix colelem" id="u831-4"><!-- content -->
        <p>Sponsors</p>
       </div>
-      <div class="clearfix colelem" id="u828-4"><!-- content -->
-       <p>Information Science &amp; Technology Institute (ISTI)</p>
+      <div class="clearfix colelem" id="u828-5"><!-- content -->
+       <p><a class="nonblock" href="http://institute.lanl.gov/isti">Information Science &amp; Technology Institute (ISTI)</a></p>
       </div>
       <div class="clearfix colelem" id="u827-7"><!-- content -->
        <p>Working closely with LANL's Information Science and Technology Center and line organizations across LANL, the Information Science and Technology Institute engages in, implements, and/or broadly fosters collaborative research, capability and workforce development, technical exchange, program development activities, and institutionally-focused strategic planning.</p>
        <p>&nbsp;</p>
-       <p>The summer school receives half of its funding through the information science &amp; technology institute.&nbsp; The institute is lead by Stefan Eidenbenz.</p>
+       <p>The summer school receives half of its funding through the Information Science &amp; Technology Institute.&nbsp; The institute is lead by Stefan Eidenbenz.</p>
       </div>
-      <div class="clearfix colelem" id="u830-4"><!-- content -->
-       <p>Advanced Simulation &amp; Computing (ASC) Program</p>
+      <div class="clearfix colelem" id="u830-5"><!-- content -->
+       <p><a class="nonblock" href="http://nnsa.energy.gov/asc">Advanced Simulation &amp; Computing (ASC) Program</a></p>
       </div>
       <div class="clearfix colelem" id="u829-7"><!-- content -->
        <p>Established in 1995, the Advanced Simulation and Computing (ASC) Program supports the U.S. Defense Programs' shift in emphasis from test-based confidence to simulation-based confidence. Under ASC, computer simulation capabilities are developed to analyze and predict the performance, safety, and reliability of nuclear weapons and to certify their functionality.</p>
        <p>&nbsp;</p>
-       <p>The summer school receives half of its funding through the computational systems &amp; software environment (CSSE) program.&nbsp; The program is managed by Mike Lang.</p>
+       <p>The summer school receives half of its funding through the Computational Systems &amp; Software Environment (CSSE) Program.&nbsp; The program is managed by Mike Lang.</p>
       </div>
      </div>
      <div class="grpelem" id="u511"><!-- simple frame --></div>
@@ -154,6 +154,7 @@ var __adobewebfontsappname__ = "muse";
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?275725342" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?185257658" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
   <!-- Other scripts -->

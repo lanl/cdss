@@ -1,7 +1,7 @@
 .version.sponsors /* version checker */
 {
-	color: #0000FB;
-	background-color: #6D3EBF;
+	color: #0000F4;
+	background-color: #DA53ED;
 }
 
 .html
@@ -219,7 +219,7 @@
 
 #u831-4
 {
-	z-index: 151;
+	z-index: 153;
 	width: 374px;
 	min-height: 24px;
 	background-color: transparent;
@@ -230,7 +230,7 @@
 	position: relative;
 }
 
-#u828-4
+#u828-5
 {
 	z-index: 136;
 	width: 374px;
@@ -259,9 +259,9 @@
 	position: relative;
 }
 
-#u830-4
+#u830-5
 {
-	z-index: 147;
+	z-index: 148;
 	width: 374px;
 	min-height: 24px;
 	background-color: transparent;
@@ -275,7 +275,7 @@
 
 #u829-7
 {
-	z-index: 140;
+	z-index: 141;
 	width: 562px;
 	min-height: 121px;
 	background-color: transparent;
