@@ -1,0 +1,37 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441136448393">
+  <folder name="css">
+    <file name="site_global.css" crc="65749609"/>
+    <file name="master_main.css" crc="3922767794" ref="index"/>
+    <file name="master_interior-wimage.css" crc="4122102253" ref="personnel:apply"/>
+    <file name="master_contacts.css" crc="66703091" ref="contacts"/>
+    <file name="personnel.css" crc="4140589982" ref="personnel"/>
+    <file name="iefonts_personnel.css" crc="4014002967" ref="personnel"/>
+    <file name="apply.css" crc="4042322269" ref="apply"/>
+    <file name="iefonts_apply.css" crc="3833809311" ref="apply"/>
+    <file name="index.css" crc="89535371" ref="index"/>
+    <file name="iefonts_index.css" crc="4232263355" ref="index"/>
+    <file name="contacts.css" crc="220477830" ref="contacts"/>
+    <file name="iefonts_contacts.css" crc="256779347" ref="contacts"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="contacts:index:personnel:apply"/>
+    <file name="museutils.js" crc="275725342" ref="contacts:index:personnel:apply"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="contacts:index:personnel"/>
+    <file name="pie.js" crc="3827607177" ref="contacts:index:personnel"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="contacts:index:personnel:apply"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="contacts:index:personnel:apply"/>
+    <file name="html5shiv.js" crc="4241844378" ref="contacts:index:personnel:apply"/>
+  </folder>
+  <folder name="images">
+    <file name="binary.jpg" crc="5583638" ref="contacts:index:personnel"/>
+    <file name="logo.gif" crc="379197196" seo="true" ref="contacts:index:personnel:apply"/>
+    <file name="stars.jpg" crc="368059000" seo="true" ref="index"/>
+    <file name="ben-1.jpg" crc="489153207" seo="true" ref="personnel"/>
+    <file name="junghans-web-crop-u430.jpg" crc="3768157383" ref="personnel"/>
+    <file name="junghans-web-crop-u442.jpg" crc="3768157383" ref="personnel"/>
+  </folder>
+  <file name="contacts.html" crc="4180356546" seo="true" mt="1441135779392" redirect="true"/>
+  <file name="index.html" crc="3811740513" seo="true" mt="1441135779391" redirect="true"/>
+  <file name="personnel.html" crc="147250341" seo="true" mt="1441135427896" redirect="true"/>
+  <file name="apply.html" crc="300087740" seo="true" mt="1441135810547" redirect="true"/>
+</manifest>
