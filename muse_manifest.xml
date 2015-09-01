@@ -1,37 +1,53 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441137388374">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441141657203">
   <folder name="css">
-    <file name="site_global.css" crc="65749609"/>
-    <file name="master_main.css" crc="3922767794" ref="index"/>
-    <file name="master_interior-wimage.css" crc="4122102253" ref="personnel:apply"/>
-    <file name="master_contacts.css" crc="66703091" ref="contacts"/>
-    <file name="personnel.css" crc="3975060703" ref="personnel"/>
-    <file name="iefonts_personnel.css" crc="4014002967" ref="personnel"/>
-    <file name="apply.css" crc="4043072783" ref="apply"/>
-    <file name="iefonts_apply.css" crc="3833809311" ref="apply"/>
-    <file name="index.css" crc="4081309971" ref="index"/>
-    <file name="iefonts_index.css" crc="4232263355" ref="index"/>
-    <file name="contacts.css" crc="3929412371" ref="contacts"/>
-    <file name="iefonts_contacts.css" crc="256779347" ref="contacts"/>
+    <file name="site_global.css" crc="4249042467"/>
+    <file name="master_main.css" crc="478084525" ref="index"/>
+    <file name="master_interior-wimage.css" crc="4230904410" ref="apply:people:2015:2014:history"/>
+    <file name="master_contacts.css" crc="30799277" ref="contacts"/>
+    <file name="apply.css" crc="512065026" ref="apply"/>
+    <file name="iefonts_apply.css" crc="435400795" ref="apply"/>
+    <file name="index.css" crc="4088909546" ref="index"/>
+    <file name="iefonts_index.css" crc="416193708" ref="index"/>
+    <file name="contacts.css" crc="28008323" ref="contacts"/>
+    <file name="iefonts_contacts.css" crc="3884694057" ref="contacts"/>
+    <file name="people.css" crc="379425276" ref="people"/>
+    <file name="iefonts_people.css" crc="3942118331" ref="people"/>
+    <file name="2015.css" crc="339665547" ref="2015"/>
+    <file name="iefonts_2015.css" crc="3943660735" ref="2015"/>
+    <file name="2014.css" crc="219523090" ref="2014"/>
+    <file name="iefonts_2014.css" crc="459192097" ref="2014"/>
+    <file name="history.css" crc="4171120031" ref="history"/>
+    <file name="iefonts_history.css" crc="4171693506" ref="history"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="contacts:index:personnel:apply"/>
-    <file name="museutils.js" crc="275725342" ref="contacts:index:personnel:apply"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="contacts:index:personnel"/>
-    <file name="pie.js" crc="3827607177" ref="contacts:index:personnel"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="contacts:index:personnel:apply"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="contacts:index:personnel:apply"/>
-    <file name="html5shiv.js" crc="4241844378" ref="contacts:index:personnel:apply"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="contacts:index:apply:people:history:2015:2014"/>
+    <file name="museutils.js" crc="275725342" ref="contacts:index:apply:people:history:2015:2014"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="contacts:index:people"/>
+    <file name="pie.js" crc="3827607177" ref="contacts:index:people"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="contacts:index:apply:people:history:2015:2014"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="contacts:index:apply:people:history:2015:2014"/>
+    <file name="html5shiv.js" crc="4241844378" ref="contacts:index:apply:people:history:2015:2014"/>
   </folder>
   <folder name="images">
-    <file name="binary.jpg" crc="5583638" ref="contacts:index:personnel"/>
-    <file name="logo.gif" crc="379197196" seo="true" ref="contacts:index:personnel:apply"/>
+    <file name="binary.jpg" crc="5583638" ref="contacts:index:people"/>
+    <file name="logo.gif" crc="379197196" seo="true" ref="contacts:index:apply:people:history:2015:2014"/>
     <file name="stars.jpg" crc="368059000" seo="true" ref="index"/>
-    <file name="ben-1.jpg" crc="489153207" seo="true" ref="personnel"/>
-    <file name="junghans-web-crop-u430.jpg" crc="3768157383" ref="personnel"/>
-    <file name="junghans-web-crop-u442.jpg" crc="3768157383" ref="personnel"/>
+    <file name="ben-1.jpg" crc="489153207" seo="true" ref="people"/>
+    <file name="junghans-web-crop-u430.jpg" crc="3768157383" ref="people"/>
+    <file name="junghans-web-crop-u442.jpg" crc="3768157383" ref="people"/>
+    <file name="al-1.jpg" crc="37403546" seo="true" ref="history"/>
+    <file name="carrier.jpg" crc="18380014" seo="true" ref="2014"/>
+    <file name="czuprynski.jpg" crc="23052347" seo="true" ref="2014"/>
+    <file name="pavel.jpg" crc="3865022404" seo="true" ref="2014"/>
+    <file name="grosset.jpg" crc="4042857133" seo="true" ref="2014"/>
+    <file name="bird.jpg" crc="3969446572" seo="true" ref="2014"/>
+    <file name="reisner.jpg" crc="464103696" seo="true" ref="2014"/>
   </folder>
-  <file name="contacts.html" crc="4180356546" seo="true" mt="1441137265086" redirect="true"/>
-  <file name="index.html" crc="3811740513" seo="true" mt="1441136919156" redirect="true"/>
-  <file name="personnel.html" crc="147250341" seo="true" mt="1441137248826" redirect="true"/>
-  <file name="apply.html" crc="300087740" seo="true" mt="1441137248826" redirect="true"/>
+  <file name="contacts.html" crc="419811738" seo="true" mt="1441138754467" redirect="true"/>
+  <file name="index.html" crc="4079858293" seo="true" mt="1441139075327" redirect="true"/>
+  <file name="apply.html" crc="4208650046" seo="true" mt="1441138754466" redirect="true"/>
+  <file name="people.html" crc="4058547077" seo="true" mt="1441139606729" redirect="true"/>
+  <file name="history.html" crc="3990567170" seo="true" mt="1441141551599" redirect="true"/>
+  <file name="2015.html" crc="284910696" seo="true" mt="1441139735491" redirect="true"/>
+  <file name="2014.html" crc="4092820184" seo="true" mt="1441141071135" redirect="true"/>
 </manifest>
