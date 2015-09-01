@@ -1,7 +1,7 @@
 .version.sponsors /* version checker */
 {
-	color: #0000F4;
-	background-color: #DA53ED;
+	color: #00000C;
+	background-color: #91EC99;
 }
 
 .html
@@ -223,8 +223,8 @@
 	width: 374px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -236,8 +236,8 @@
 	width: 374px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 24px;
@@ -250,8 +250,8 @@
 	width: 562px;
 	min-height: 121px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 20px;
@@ -265,8 +265,8 @@
 	width: 374px;
 	min-height: 24px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 20px;
@@ -279,8 +279,8 @@
 	width: 562px;
 	min-height: 121px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 20px;
