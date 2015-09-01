@@ -1,7 +1,7 @@
 .version.people /* version checker */
 {
-	color: #0000EF;
-	background-color: #B2F219;
+	color: #000006;
+	background-color: #203412;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 2191px;
+	min-height: 2576px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -249,13 +249,6 @@
 	position: relative;
 }
 
-#u430_clip
-{
-	overflow: hidden;
-	width: 292px;
-	height: 365px;
-}
-
 #u430_img
 {
 	margin-top: -12px;
@@ -369,7 +362,47 @@
 	left: 312px;
 }
 
-#u429-2,#u432-2,#u441-2,#u444-2
+#pu841
+{
+	width: 0.01px;
+	margin-left: 84px;
+	margin-top: 26px;
+}
+
+#u841
+{
+	z-index: 188;
+	width: 292px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u430_clip,#u841_clip
+{
+	overflow: hidden;
+	width: 292px;
+	height: 365px;
+}
+
+#u841_img
+{
+	margin-left: -37px;
+	margin-right: 37px;
+}
+
+#u843-12
+{
+	z-index: 190;
+	width: 312px;
+	min-height: 365px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 312px;
+}
+
+#u429-2,#u432-2,#u441-2,#u444-2,#u843-2
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -377,7 +410,7 @@
 	font-weight: 700;
 }
 
-#u429-3,#u429-5,#u429-6,#u429-8,#u429-9,#u429-11,#u432-3,#u432-5,#u432-6,#u432-8,#u441-3,#u441-5,#u441-6,#u441-8,#u444-3,#u444-5,#u444-6,#u444-8
+#u429-3,#u429-5,#u429-6,#u429-8,#u429-9,#u429-11,#u432-3,#u432-5,#u432-6,#u432-8,#u441-3,#u441-5,#u441-6,#u441-8,#u444-3,#u444-5,#u444-6,#u444-8,#u843-3,#u843-5,#u843-7,#u843-8,#u843-10
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -644,7 +677,7 @@
 {
 	z-index: 39;
 	min-height: 172px;
-	margin-top: 34px;
+	margin-top: 28px;
 }
 
 body
