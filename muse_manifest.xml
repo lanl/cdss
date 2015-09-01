@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441148316549">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441148849108">
   <folder name="css">
     <file name="site_global.css" crc="65749609"/>
     <file name="master_main.css" crc="74630800" ref="index"/>
@@ -50,7 +50,7 @@
     <file name="di120180029.jpg" crc="4128140447" seo="true" ref="2012"/>
   </folder>
   <file name="contacts.html" crc="2739859" seo="true" mt="1441142080005" redirect="true"/>
-  <file name="index.html" crc="4190544641" seo="true" mt="1441147197050" redirect="true"/>
+  <file name="index.html" crc="332984484" seo="true" mt="1441148825627" redirect="true"/>
   <file name="apply.html" crc="170592990" seo="true" mt="1441142055912" redirect="true"/>
   <file name="people.html" crc="3830417771" seo="true" mt="1441146721039" redirect="true"/>
   <file name="history.html" crc="3842452262" seo="true" mt="1441148265011" redirect="true"/>
