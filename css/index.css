@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #7E3FAD;
+	color: #0000FD;
+	background-color: #044374;
 }
 
 .html
@@ -221,8 +221,8 @@
 	width: 362px;
 	min-height: 24px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -234,8 +234,8 @@
 	width: 812px;
 	min-height: 121px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 20px;
@@ -249,8 +249,8 @@
 	width: 362px;
 	min-height: 24px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-left: 106px;
@@ -264,12 +264,28 @@
 	width: 812px;
 	min-height: 155px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 126px;
 	margin-top: 15px;
+	position: relative;
+}
+
+#u874-5
+{
+	z-index: 148;
+	width: 360px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	margin-left: 362px;
+	margin-top: 38px;
 	position: relative;
 }
 
@@ -281,7 +297,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 106px;
-	margin-top: 30px;
+	margin-top: 16px;
 	position: relative;
 }
 
@@ -302,8 +318,8 @@
 	min-height: 60px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -322,8 +338,8 @@
 	min-height: 265px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -347,8 +363,8 @@
 	min-height: 68px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 361px;
@@ -382,7 +398,7 @@
 	background-color: transparent;
 	text-align: center;
 	margin-left: 126px;
-	margin-top: 27px;
+	margin-top: 35px;
 	position: relative;
 }
 
@@ -653,7 +669,7 @@
 {
 	z-index: 2;
 	min-height: 172px;
-	margin-top: 34px;
+	margin-top: 8px;
 }
 
 body
