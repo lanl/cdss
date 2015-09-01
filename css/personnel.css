@@ -1,7 +1,7 @@
 .version.personnel /* version checker */
 {
-	color: #0000F6;
-	background-color: #CC639E;
+	color: #0000EC;
+	background-color: #EE9CDF;
 }
 
 .html
@@ -54,7 +54,7 @@
 {
 	z-index: 2;
 	width: 396px;
-	margin-left: 334px;
+	margin-left: 542px;
 	margin-top: 10px;
 }
 
