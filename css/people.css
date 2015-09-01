@@ -1,7 +1,7 @@
 .version.people /* version checker */
 {
-	color: #000006;
-	background-color: #203412;
+	color: #0000E5;
+	background-color: #F0FCDB;
 }
 
 .html
@@ -351,6 +351,19 @@
 	margin-right: -10000px;
 }
 
+#u430_clip,#u439_clip,#u442_clip
+{
+	overflow: hidden;
+	width: 292px;
+	height: 365px;
+}
+
+#u439_img,#u442_img
+{
+	margin-left: -37px;
+	margin-right: -36px;
+}
+
 #u444-10
 {
 	z-index: 178;
@@ -376,19 +389,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u430_clip,#u841_clip
-{
-	overflow: hidden;
-	width: 292px;
-	height: 365px;
-}
-
-#u841_img
-{
-	margin-left: -37px;
-	margin-right: 37px;
 }
 
 #u843-12
