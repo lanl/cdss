@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441136448393">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441137055169">
   <folder name="css">
     <file name="site_global.css" crc="65749609"/>
     <file name="master_main.css" crc="3922767794" ref="index"/>
@@ -8,7 +8,7 @@
     <file name="iefonts_personnel.css" crc="4014002967" ref="personnel"/>
     <file name="apply.css" crc="4042322269" ref="apply"/>
     <file name="iefonts_apply.css" crc="3833809311" ref="apply"/>
-    <file name="index.css" crc="89535371" ref="index"/>
+    <file name="index.css" crc="4081309971" ref="index"/>
     <file name="iefonts_index.css" crc="4232263355" ref="index"/>
     <file name="contacts.css" crc="220477830" ref="contacts"/>
     <file name="iefonts_contacts.css" crc="256779347" ref="contacts"/>
@@ -31,7 +31,7 @@
     <file name="junghans-web-crop-u442.jpg" crc="3768157383" ref="personnel"/>
   </folder>
   <file name="contacts.html" crc="4180356546" seo="true" mt="1441135779392" redirect="true"/>
-  <file name="index.html" crc="3811740513" seo="true" mt="1441135779391" redirect="true"/>
+  <file name="index.html" crc="3811740513" seo="true" mt="1441136919156" redirect="true"/>
   <file name="personnel.html" crc="147250341" seo="true" mt="1441135427896" redirect="true"/>
   <file name="apply.html" crc="300087740" seo="true" mt="1441135810547" redirect="true"/>
 </manifest>
