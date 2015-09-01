@@ -1,7 +1,7 @@
 .version.history /* version checker */
 {
-	color: #0000F0;
-	background-color: #5AECDC;
+	color: #00001D;
+	background-color: #528938;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1132px;
+	min-height: 1172px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -216,8 +216,8 @@
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -249,12 +249,25 @@
 	position: relative;
 }
 
-#u749-3,#u750-3
+#u872-5
+{
+	z-index: 160;
+	width: 498px;
+	min-height: 24px;
+	background-color: transparent;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	margin-left: 22px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u749-3,#u750-3,#u872-3
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u749,#u750
+#u749,#u750,#u872
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -267,7 +280,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 21px;
+	margin-top: 23px;
 	position: relative;
 }
 
@@ -283,8 +296,8 @@
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -605,7 +618,7 @@
 {
 	z-index: 39;
 	min-height: 172px;
-	margin-top: 29px;
+	margin-top: 22px;
 }
 
 body
