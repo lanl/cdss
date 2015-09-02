@@ -1,7 +1,7 @@
 .version._2015 /* version checker */
 {
-	color: #00001E;
-	background-color: #B6C00F;
+	color: #000006;
+	background-color: #7B6511;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1050px;
+	min-height: 1041px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -203,11 +203,68 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu511
+#ppu881-4
 {
 	width: 0.01px;
-	margin-left: 750px;
+	margin-left: 64px;
 	margin-top: 33px;
+}
+
+#pu881-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#u881-4
+{
+	z-index: 131;
+	width: 312px;
+	min-height: 32px;
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u882
+{
+	z-index: 129;
+	width: 563px;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u882_clip
+{
+	overflow: hidden;
+	width: 563px;
+	height: 375px;
+}
+
+#u882_img
+{
+	margin-top: -23px;
+	margin-bottom: -24px;
+}
+
+#u884-6
+{
+	z-index: 135;
+	width: 562px;
+	min-height: 67px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	margin-left: 20px;
+	margin-top: 21px;
+	position: relative;
 }
 
 #u511
@@ -216,6 +273,7 @@
 	width: 19px;
 	height: 500px;
 	margin-right: -10000px;
+	left: 686px;
 }
 
 #u509-44
@@ -224,7 +282,7 @@
 	width: 190px;
 	min-height: 59px;
 	margin-right: -10000px;
-	left: 20px;
+	left: 706px;
 }
 
 #u514
@@ -488,7 +546,7 @@
 {
 	z-index: 39;
 	min-height: 172px;
-	margin-top: 58px;
+	margin-top: 12px;
 }
 
 body
