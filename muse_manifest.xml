@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441163835129">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441164403939">
   <folder name="assets">
     <file name="brochure.pdf" crc="3927710632" seo="true" mt="1441074717000"/>
   </folder>
@@ -56,7 +56,7 @@
   <file name="contacts.html" crc="3975597910" seo="true" mt="1441149086399" redirect="true"/>
   <file name="index.html" crc="3892974686" seo="true" mt="1441150742776" redirect="true"/>
   <file name="apply.html" crc="4234240880" seo="true" mt="1441149018112" redirect="true"/>
-  <file name="people.html" crc="3789778531" seo="true" mt="1441149035574" redirect="true"/>
+  <file name="people.html" crc="53926728" seo="true" mt="1441164358268" redirect="true"/>
   <file name="history.html" crc="128415221" seo="true" mt="1441163798897" redirect="true"/>
   <file name="2015.html" crc="165532254" seo="true" mt="1441163779020" redirect="true"/>
   <file name="2014.html" crc="4239909453" seo="true" mt="1441149119677" redirect="true"/>
