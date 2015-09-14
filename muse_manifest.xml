@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1441220318274">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1442250308036">
   <folder name="assets">
     <file name="brochure.pdf" crc="3927710632" seo="true" mt="1441074717000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="65749609"/>
+    <file name="site_global.css" crc="4249042467"/>
     <file name="master_main.css" crc="336817415" ref="index"/>
     <file name="master_contacts.css" crc="4025843929" ref="contacts"/>
     <file name="apply.css" crc="355501929" ref="apply"/>
@@ -29,14 +29,14 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="contacts:index:apply:people:history:2015:2014:sponsors:2012"/>
     <file name="museutils.js" crc="275725342" ref="contacts:index:apply:people:history:2015:2014:sponsors:2012"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="contacts:index:people:history"/>
-    <file name="pie.js" crc="3827607177" ref="contacts:index:people:history"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="contacts:index:people:history:sponsors"/>
+    <file name="pie.js" crc="3827607177" ref="contacts:index:people:history:sponsors"/>
     <file name="jquery.watch.js" crc="3999102769" ref="contacts:index:apply:people:history:2015:2014:sponsors:2012"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="contacts:index:apply:people:history:2015:2014:sponsors:2012"/>
     <file name="html5shiv.js" crc="4241844378" ref="contacts:index:apply:people:history:2015:2014:sponsors:2012"/>
   </folder>
   <folder name="images">
-    <file name="binary.jpg" crc="5583638" ref="contacts:index:people:history"/>
+    <file name="binary.jpg" crc="5583638" ref="contacts:index:people:history:sponsors"/>
     <file name="logo.gif" crc="379197196" seo="true" ref="contacts:index:apply:people:history:2015:2014:sponsors:2012"/>
     <file name="stars.jpg" crc="368059000" seo="true" ref="index"/>
     <file name="ben-1.jpg" crc="489153207" seo="true" ref="people"/>
@@ -60,6 +60,6 @@
   <file name="history.html" crc="128415221" seo="true" mt="1441163798897" redirect="true"/>
   <file name="2015.html" crc="165532254" seo="true" mt="1441163779020" redirect="true"/>
   <file name="2014.html" crc="4239909453" seo="true" mt="1441149119677" redirect="true"/>
-  <file name="sponsors.html" crc="4171725244" seo="true" mt="1441149068652" redirect="true"/>
+  <file name="sponsors.html" crc="414351395" seo="true" mt="1442250290536" redirect="true"/>
   <file name="2012.html" crc="4113160818" seo="true" mt="1441149109272" redirect="true"/>
 </manifest>
