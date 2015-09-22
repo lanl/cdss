@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1442888889943">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1442945133287">
   <folder name="assets">
     <file name="brochure.pdf" crc="3927710632" seo="true" mt="1441074717000"/>
   </folder>
@@ -12,8 +12,8 @@
     <file name="iefonts_index.css" crc="3878241132" ref="index"/>
     <file name="contacts.css" crc="3822962880" ref="contacts"/>
     <file name="iefonts_contacts.css" crc="4250750562" ref="contacts"/>
-    <file name="people.css" crc="4282858142" ref="people"/>
-    <file name="iefonts_people.css" crc="3871519047" ref="people"/>
+    <file name="people.css" crc="4211518397" ref="people"/>
+    <file name="iefonts_people.css" crc="3955635437" ref="people"/>
     <file name="2015.css" crc="108750097" ref="2015"/>
     <file name="iefonts_2015.css" crc="485190115" ref="2015"/>
     <file name="2014.css" crc="4253820564" ref="2014"/>
@@ -24,7 +24,7 @@
     <file name="iefonts_sponsors.css" crc="297342210" ref="sponsors"/>
     <file name="2012.css" crc="4136071739" ref="2012"/>
     <file name="iefonts_2012.css" crc="485441667" ref="2012"/>
-    <file name="master_interior.css" crc="405749609" ref="2014:apply:sponsors:history:2012:2015:people"/>
+    <file name="master_interior.css" crc="4149486832" ref="2014:apply:sponsors:history:2012:2015:people"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="contacts:index:apply:people:history:2015:2014:sponsors:2012"/>
@@ -54,12 +54,12 @@
     <file name="cdss-1.jpg" crc="3805713752" seo="true" ref="2015"/>
     <file name="fryer.jpg" crc="3783894743" seo="true" ref="people"/>
     <file name="wes.jpg" crc="3775826310" seo="true" ref="people"/>
-    <file name="oleg.jpg" crc="11455615" seo="true" ref="people"/>
+    <file name="oleg.jpg" crc="401923167" seo="true" ref="people"/>
   </folder>
   <file name="contacts.html" crc="3975597910" seo="true" mt="1441149086399" redirect="true"/>
   <file name="index.html" crc="4132619880" seo="true" mt="1441220302602" redirect="true"/>
   <file name="apply.html" crc="4234240880" seo="true" mt="1441149018112" redirect="true"/>
-  <file name="people.html" crc="59280467" seo="true" mt="1442888879067" redirect="true"/>
+  <file name="people.html" crc="3972599589" seo="true" mt="1442945045292" redirect="true"/>
   <file name="history.html" crc="128415221" seo="true" mt="1441163798897" redirect="true"/>
   <file name="2015.html" crc="165532254" seo="true" mt="1441163779020" redirect="true"/>
   <file name="2014.html" crc="4239909453" seo="true" mt="1441149119677" redirect="true"/>

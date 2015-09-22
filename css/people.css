@@ -1,7 +1,7 @@
 .version.people /* version checker */
 {
-	color: #0000FF;
-	background-color: #473A9E;
+	color: #0000FB;
+	background-color: #06ABBD;
 }
 
 .html
@@ -222,8 +222,8 @@
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -306,8 +306,8 @@
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-left: 64px;
@@ -329,7 +329,7 @@
 	margin-bottom: -37px;
 }
 
-#u441-9
+#u441-12
 {
 	z-index: 166;
 	width: 312px;
@@ -351,7 +351,7 @@
 
 #u893
 {
-	z-index: 204;
+	z-index: 207;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -366,7 +366,7 @@
 
 #u895-12
 {
-	z-index: 206;
+	z-index: 209;
 	width: 312px;
 	min-height: 365px;
 	background-color: transparent;
@@ -384,7 +384,7 @@
 
 #u442
 {
-	z-index: 175;
+	z-index: 178;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -399,7 +399,7 @@
 
 #u444-10
 {
-	z-index: 177;
+	z-index: 180;
 	width: 312px;
 	min-height: 365px;
 	background-color: transparent;
@@ -417,7 +417,7 @@
 
 #u841
 {
-	z-index: 187;
+	z-index: 190;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -426,7 +426,7 @@
 
 #u843-15
 {
-	z-index: 189;
+	z-index: 192;
 	width: 312px;
 	min-height: 365px;
 	background-color: transparent;
@@ -444,7 +444,7 @@
 
 #u909
 {
-	z-index: 218;
+	z-index: 221;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -465,7 +465,7 @@
 
 #u911-14
 {
-	z-index: 220;
+	z-index: 223;
 	width: 312px;
 	min-height: 365px;
 	background-color: transparent;
@@ -482,7 +482,7 @@
 	font-weight: 700;
 }
 
-#u429-3,#u429-5,#u429-6,#u429-8,#u429-9,#u429-11,#u432-3,#u432-5,#u432-6,#u432-8,#u441-6,#u895-3,#u895-5,#u895-6,#u895-8,#u895-10,#u444-3,#u444-5,#u444-6,#u444-8,#u843-3,#u843-5,#u843-7,#u843-8,#u843-10,#u843-11,#u911-3,#u911-5,#u911-7,#u911-8,#u911-10,#u911-11
+#u429-3,#u429-5,#u429-6,#u429-8,#u429-9,#u429-11,#u432-3,#u432-5,#u432-6,#u432-8,#u441-9,#u895-3,#u895-5,#u895-6,#u895-8,#u895-10,#u444-3,#u444-5,#u444-6,#u444-8,#u843-3,#u843-5,#u843-7,#u843-8,#u843-10,#u843-11,#u911-3,#u911-5,#u911-7,#u911-8,#u911-10,#u911-11
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
