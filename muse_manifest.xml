@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1443584917128">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="codesign.lanl.gov/summer-school" resolutions="1x" timestamp="1443585260727">
   <folder name="assets">
-    <file name="brochure.pdf" crc="3927710632" seo="true" mt="1441074717000"/>
+    <file name="brochure.pdf" crc="434971462" seo="true" mt="1443585082000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="65749609"/>
