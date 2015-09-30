@@ -1,7 +1,7 @@
 .version._2015 /* version checker */
 {
-	color: #000006;
-	background-color: #7B6511;
+	color: #000001;
+	background-color: #CF3876;
 }
 
 .html
@@ -222,8 +222,8 @@
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -258,8 +258,8 @@
 	width: 562px;
 	min-height: 67px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-left: 20px;

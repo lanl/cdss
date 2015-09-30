@@ -1,7 +1,7 @@
 .version.apply /* version checker */
 {
-	color: #000015;
-	background-color: #308769;
+	color: #0000FC;
+	background-color: #33CC16;
 }
 
 .html
@@ -224,8 +224,8 @@
 	width: 362px;
 	min-height: 24px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -237,8 +237,8 @@
 	width: 500px;
 	min-height: 121px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 20px;
@@ -257,8 +257,8 @@
 	width: 362px;
 	min-height: 24px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-top: 21px;
@@ -324,8 +324,8 @@
 	width: 362px;
 	min-height: 24px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-left: 106px;
@@ -339,8 +339,8 @@
 	width: 500px;
 	min-height: 121px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 126px;
@@ -354,8 +354,8 @@
 	width: 362px;
 	min-height: 24px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	margin-left: 106px;

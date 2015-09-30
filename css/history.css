@@ -1,7 +1,7 @@
 .version.history /* version checker */
 {
-	color: #00001D;
-	background-color: #528938;
+	color: #000003;
+	background-color: #E919F7;
 }
 
 .html
@@ -216,8 +216,8 @@
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -296,8 +296,8 @@
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
