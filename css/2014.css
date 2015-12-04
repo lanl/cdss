@@ -1,7 +1,7 @@
 .version._2014 /* version checker */
 {
-	color: #0000E6;
-	background-color: #EB0269;
+	color: #0000E0;
+	background-color: #571DE3;
 }
 
 .html
@@ -50,12 +50,28 @@
 	min-height: 169px;
 }
 
+#pu962-4
+{
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: 5px;
+}
+
+#u962-4
+{
+	z-index: 129;
+	width: 396px;
+	min-height: 44px;
+	margin-right: -10000px;
+}
+
 #menuu450
 {
 	z-index: 2;
 	width: 500px;
-	margin-left: 438px;
-	margin-top: 10px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 416px;
 }
 
 #u454
@@ -207,7 +223,7 @@
 {
 	width: 0.01px;
 	margin-left: 64px;
-	margin-top: 33px;
+	margin-top: 28px;
 }
 
 #pu706-4
@@ -218,7 +234,7 @@
 
 #u706-4
 {
-	z-index: 145;
+	z-index: 149;
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
@@ -231,7 +247,7 @@
 
 #u703
 {
-	z-index: 129;
+	z-index: 133;
 	width: 292px;
 	background-color: transparent;
 	margin-left: 20px;
@@ -241,7 +257,7 @@
 
 #u712
 {
-	z-index: 149;
+	z-index: 153;
 	width: 292px;
 	background-color: transparent;
 	margin-left: 20px;
@@ -259,7 +275,7 @@
 
 #u705-14
 {
-	z-index: 131;
+	z-index: 135;
 	width: 292px;
 	min-height: 365px;
 	background-color: transparent;
@@ -268,7 +284,7 @@
 
 #u714-14
 {
-	z-index: 151;
+	z-index: 155;
 	width: 292px;
 	min-height: 365px;
 	background-color: transparent;
@@ -303,7 +319,7 @@
 
 #u719
 {
-	z-index: 165;
+	z-index: 169;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -312,7 +328,7 @@
 
 #u721-14
 {
-	z-index: 167;
+	z-index: 171;
 	width: 292px;
 	min-height: 365px;
 	background-color: transparent;
@@ -323,7 +339,7 @@
 
 #u726
 {
-	z-index: 181;
+	z-index: 185;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -332,7 +348,7 @@
 
 #u728-14
 {
-	z-index: 183;
+	z-index: 187;
 	width: 292px;
 	min-height: 365px;
 	background-color: transparent;
@@ -343,7 +359,7 @@
 
 #u733
 {
-	z-index: 197;
+	z-index: 201;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -352,7 +368,7 @@
 
 #u735-14
 {
-	z-index: 199;
+	z-index: 203;
 	width: 292px;
 	min-height: 365px;
 	background-color: transparent;
@@ -370,7 +386,7 @@
 
 #u737
 {
-	z-index: 213;
+	z-index: 217;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -379,7 +395,7 @@
 
 #u739-14
 {
-	z-index: 215;
+	z-index: 219;
 	width: 292px;
 	min-height: 365px;
 	background-color: transparent;
