@@ -17,7 +17,7 @@
 	-pie-background: rgba(0,0,0,0.4);
 }
 
-#u958-4
+#u958-5
 {
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.4);
@@ -28,6 +28,22 @@
 	font-weight: 700;
 	position: relative;
 	-pie-background: rgba(255,255,255,0.4);
+}
+
+#u958-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u958
+{
+	line-height: 43px;
+}
+
+#u958-2
+{
+	font-size: 24px;
+	line-height: 29px;
 }
 
 #u254,#u255
