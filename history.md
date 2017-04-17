@@ -13,7 +13,7 @@ layout: page
 
 ### [Class of 2013: Materials in Extreme Environments](2013.html)
 
-### [Class of 2012: Multiscale Applications in the Natural Environments](2012.html)
+### [Class of 2012: Scale Bridging Approach to a Steady-state Neutron Transport](2012.html)
 
 # Founder
 ![](images/al-1.jpg)
