@@ -15,6 +15,8 @@ layout: page
 
 ### [Class of 2012: Scale Bridging Approach to a Steady-state Neutron Transport](2012.html)
 
+### [Class of 2011: Quasi Diffusion Accelerated Monte Carlo](2011.html)
+
 # Founder
 ![](images/al-1.jpg)
 
