@@ -68,4 +68,4 @@ Geoff is a compuational scientist with a background in mathematics and centroida
 
 CCS-7 Applied Computer Science
 
-Louis is a computational scientist in the Future Architectures and Applications Team. He has background in molecular dynamics, long timescale dynamics and molecular statics methods. His current interests lie in application performance optimization, cloud computing technologies and software engineering and productivity.
+Louis is a computational scientist in the Future Architectures and Applications Team. He has a background in molecular dynamics, long timescale dynamics and molecular statics methods. His current interests lie in application performance optimization, cloud computing technologies and software engineering and productivity.
