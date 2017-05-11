@@ -63,3 +63,9 @@ CCS-7 Applied Computer Science
 Geoff is a compuational scientist with a background in mathematics and centroidal Voronoi tessellations. He has experience in numerical methods and parallel frameworks for multi-scale models for ocean, and algorithms for communication aggregation, thereof. His interests also include the coupling between proxy applications, their hosts, and programming models, codesign interactions, and parallel frameworks and algorithms, in general.
 
 
+### Louis Vernon
+![](images/vernon.jpg)
+
+CCS-7 Applied Computer Science
+
+Louis is a computational scientist in the Future Architectures and Applications Team. He has a background in molecular dynamics, long timescale dynamics and molecular statics methods. His current interests lie in application performance optimization, cloud computing technologies and software engineering and productivity.
