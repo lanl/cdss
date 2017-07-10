@@ -69,3 +69,10 @@ Geoff is a compuational scientist with a background in mathematics and centroida
 CCS-7 Applied Computer Science
 
 Louis is a computational scientist in the Future Architectures and Applications Team. He has a background in molecular dynamics, long timescale dynamics and molecular statics methods. His current interests lie in application performance optimization, cloud computing technologies and software engineering and productivity.
+
+### Tom Swinburne
+![](images/tom-swinburne.jpg)
+
+ T-1 Physics and Chemistry of Materials
+
+Tom is a physicist trained to be a theoretical materials scientist, using mathematical and computational methods to understand thermally driven microstructure evolution. He working on the development of accelerated molecular dynamics techniques and Markov models at LANL.
