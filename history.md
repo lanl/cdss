@@ -5,6 +5,8 @@ layout: page
 
 # Past Schools and Participants
 
+### [Class of 2017: Accelerated Molecular Dynamics](2017.html)
+
 ### [Class of 2016: Astrophysics - Neutron Star Mergers](2016.html)
 
 ### [Class of 2015: Quantum Molecular Dynamics](2015.html)
@@ -24,5 +26,5 @@ Allen McPherson
 
 R.I.P. (Retired in Paradise)
 
-Al McPherson is a computer scientist and the former lead of the CCS-7 co-design team.
+Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design team.
 
