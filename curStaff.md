@@ -68,7 +68,7 @@ Geoff is a compuational scientist with a background in mathematics and centroida
 
 CCS-7 Applied Computer Science
 
-Pat is a postdoctoral research associate in the Co-design Team. She has a background in electrical and computer engineering, future architectures, performance analysis of task basked runtime systems.  Her current interests lie in modeling and performance optimization of applications using task based systems, cloud computing technologies and benchmarking new architectures.
+Pat is a postdoctoral research associate in the Co-design Team. She has a background in electrical and computer engineering, future architectures, performance analysis of task basked runtime systems.  Her current interests lie in modeling and performance optimization of applications using task based systems, cloud computing technologies, and benchmarking new architectures.
 
 ### Tom Swinburne
 ![](images/tom-swinburne.jpg)
