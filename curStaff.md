@@ -17,8 +17,6 @@ CCS-7 Applied Computer Science
 
 CCS-7 Applied Computer Science
 
-Nicholas C. Metropolis Fellow
-
 Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications.
 
 Robert is an alumnus of the 2013 and 2014 summer school classes!
