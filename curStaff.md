@@ -64,7 +64,7 @@ Geoff is a compuational scientist with a background in mathematics and centroida
 
 
 ### Patricia (Pat) Grubel
-![](images/grubel.jpg)
+![](images/grubel.png)
 
 CCS-7 Applied Computer Science
 
