@@ -73,4 +73,11 @@ Pat is a postdoctoral research associate in the Co-design Team. She has a backgr
 
  T-1 Physics and Chemistry of Materials
 
-Tom is a physicist trained to be a theoretical materials scientist, using mathematical and computational methods to understand thermally driven microstructure evolution. He working on the development of accelerated molecular dynamics techniques and Markov models at LANL.
+Tom is a physicist trained to be a theoretical materials scientist, using mathematical and computational methods to understand thermally driven microstructure evolution. He is working on the development of accelerated molecular dynamics techniques and Markov models at LANL.
+
+### David Gunter
+![](images/gunter.jpg)
+
+CCS-7 Applied Computer Science
+
+David is former computational physicist working in the fields of condensed matter and electromagnetic computations. He now devotes his time to exploring novel algorithms, architectures, and programming models to help solve some of LANL's most pressing computational needs. He is a member of the IC Application Performance Team as well as the Future Architectures Team within CCS-7.
