@@ -68,16 +68,22 @@ CCS-7 Applied Computer Science
 
 Pat is a postdoctoral research associate in the Co-design Team. She has a background in electrical and computer engineering, future architectures, performance analysis of task basked runtime systems.  Her current interests lie in modeling and performance optimization of applications using task based systems, cloud computing technologies, and benchmarking new architectures.
 
-### Tom Swinburne
-![](images/tom-swinburne.jpg)
-
- T-1 Physics and Chemistry of Materials
-
-Tom is a physicist trained to be a theoretical materials scientist, using mathematical and computational methods to understand thermally driven microstructure evolution. He is working on the development of accelerated molecular dynamics techniques and Markov models at LANL.
-
 ### David Gunter
 ![](images/gunter.jpg)
 
 CCS-7 Applied Computer Science
 
 David is former computational physicist working in the fields of condensed matter and electromagnetic computations. He now devotes his time to exploring novel algorithms, architectures, and programming models to help solve some of LANL's most pressing computational needs. He is a member of the IC Application Performance Team as well as the Future Architectures Team within CCS-7.
+
+### Chris Malone
+![](images/malone.jpg)
+
+XCP-1 Lagrangian Applications
+
+Chris is a computational scientist with a background in astrophysics.
+In particular, his interests lie in numerical modelling of
+astrophysical explosions driven by turbulent flow coupled to
+thermonuclear reactions, such as Type Ia supernovae and Type I X-ray
+bursts.  In recent years, his focus has been on high-energy physics in
+general, with applications and development on modern computing
+architectures.
