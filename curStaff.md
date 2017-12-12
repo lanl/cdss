@@ -49,10 +49,11 @@ David is former computational physicist working in the fields of condensed matte
 
 XCP-1 Lagrangian Applications
 
-Chris is a computational scientist with a background in astrophysics.
-In particular, his interests lie in numerical modelling of
-astrophysical explosions driven by turbulent flow coupled to
-thermonuclear reactions, such as Type Ia supernovae and Type I X-ray
-bursts.  In recent years, his focus has been on high-energy physics in
-general, with applications and development on modern computing
-architectures.
+Chris is a computational scientist with a background in astrophysics. In particular, his interests lie in numerical modelling of astrophysical explosions driven by turbulent flow coupled to thermonuclear reactions, such as Type Ia supernovae and Type I X-ray bursts.  In recent years, his focus has been on high-energy physics in general, with applications and development on modern computing architectures.
+
+### Marc Charest
+![](images/Marc_Charest.jpg)
+
+XCP-1 Lagrangian Applications
+
+Marc Charest received a Ph.D. in Aerospace Engineering from the University of Toronto in Ontario, Canada.  He came to the lab as a Nicholas C. Metropolis Postdoctoral Fellow in Computational and Computer Sciences working in XCP-8.  His current research focuses on developing highly-scalable algorithms for multi-material and multi-physics problems that are specifically designed for next-generation computer architectures.  More specifically, he is developing/implementing advanced remapping strategies for arbitrary polygonal meshes.  Prior research at LANL focused on developing high-order methods for Eulerian and ALE hydrodynamics that can be used in conjunction with adaptive mesh refinement and unstructured grids.  Before joining LANL in 2013, he was the MITACS Postdoctoral Fellow at the University of Toronto's Institute for Aerospace Studies.  In Toronto, he researched high-order solution methods for large eddy simulation of practical turbulent flames.  This research was funded by Rolls-Royce Canada to help improve their ability to predict harmful emissions from gas turbine combustion engines.  Throughout his career, his research has focused on improving the accuracy and performance of finite-volume methods.
