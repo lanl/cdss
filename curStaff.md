@@ -57,3 +57,11 @@ Chris is a computational scientist with a background in astrophysics. In particu
 XCP-1 Lagrangian Applications
 
 Marc's current research focuses on developing highly-scalable algorithms for multi-material and multi-physics problems that are specifically designed for next-generation computer architectures.  More specifically, he is developing/implementing advanced remapping strategies for arbitrary polygonal meshes.  Prior research at LANL focused on developing high-order methods for Eulerian and ALE hydrodynamics that can be used in conjunction with adaptive mesh refinement and unstructured grids.
+
+
+### Vinay Ramakrishnaiah
+![](images/Vinay.JPG)
+
+CCS-7 Applied Computer Science
+
+Vinay is a postdoctoral research associate with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures.
