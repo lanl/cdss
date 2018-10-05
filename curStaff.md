@@ -59,12 +59,28 @@ CCS-2 Computational Physics and Methods
 
 CCS-7 Applied Computer Science
 
-
 ### Li-Ta (Ollie) Lo
 
 CCS-7 Applied Computer Science
 
 Li-Ta Lo a.k.a Ollie received a B.S. in Physics from National Chung-Hsing University in 1995 and a M.S. in Applied Mechanics from National Taiwan University in 1997. He joined Los Alamos National Laboratory in 2003, after working in the semiconductor industry for 4 years. As a multi-disciplined, multi-cultured person, he has enjoyed working with several teams and a diverse set of projects during his career at LANL. His current research interest includes data science, large-scale visualization and analysis, data-parallel programming and software engineering for scientific computing.
+
+### Irina Sagert
+
+CCS-2 Computational Physics and Methods
+
+### Sam Jones
+
+CCS-2 Computational Physics and Methods
+
+
+### Patricia (Pat) Grubel
+![](images/grubel.png)
+
+CCS-7 Applied Computer Science
+
+Pat is a postdoctoral research associate in the Co-design Team. She has a background in electrical and computer engineering, future architectures, and performance analysis of task basked runtime systems.  Her current interests lie in modeling and performance optimization of applications using task based systems, cloud computing technologies, and benchmarking new architectures.
+
 
 
 <!-- ### Irina Demeshko
@@ -74,12 +90,6 @@ CCS-7 Applied Computer Science
 
 Irina is a computational scientist the Co-Design Team. Her current research work is currently focused on integrating task-based run-time systems into several software projects at LANL, but, in general, her research interests lay around new HPC technologies in application to large-scale scientific simulation codes.
 
-### Patricia (Pat) Grubel
-![](images/grubel.png)
-
-CCS-7 Applied Computer Science
-
-Pat is a postdoctoral research associate in the Co-design Team. She has a background in electrical and computer engineering, future architectures, and performance analysis of task basked runtime systems.  Her current interests lie in modeling and performance optimization of applications using task based systems, cloud computing technologies, and benchmarking new architectures.
 
 ### David Gunter
 ![](images/gunter.jpg)
