@@ -46,8 +46,11 @@ CCS-2 Computational Physics and Methods
 HPC-DES HPC Design
 
 ### Julien Loiseau
+![](images/jloiseau.jpg)
 
 CCS-7 Applied Computer Science
+
+Julien is a Computer Scientist with a background in High Performance Computing and simulation. He has experience in hybrid architectures and accelerated systems.  His postdoctorate work focuses on FleCSPH, a tool for Smoothed Particles Hydrodynamics simulations based on the FleCSI framework from LANL.  The intent is to provide an efficient and distributed tree data structure to FleCSI that allows the work to be offloaded to accelerators. The final goal of FleCSPH is to simulate large Astrophysics events. 
 
 Julien is an alumnus of the 2016 summer school class
 
