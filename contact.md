@@ -7,17 +7,17 @@ layout: page
 
 ## Summer School Leads
 
-### Christoph Junghans
-
-(505) 665-2278
-
-[Email](mailto:junghans@lanl.gov)
-
 ### Robert Pavel
 
 (505) 665-8384
 
 [Email](mailto:rspavel@lanl.gov)
+
+### Vinay Ramakrishnaiah
+
+(505) 665-0611
+
+[Email](mailto:vinayr@lanl.gov)
 
 ## Administration
 
