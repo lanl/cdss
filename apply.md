@@ -12,19 +12,18 @@ To apply to the summer school, you must
 ## Desired Disciplines for 2018
 
 ### Domain Science
-* Physical Chemistry
-* Physics
-* Material Science
+* Astrophysics
+* Nuclear Physics
 
 ### Applied Mathematics
 * Hydro-dynamics
-* Machine Learning
+* Particle Methods (Interacting)
 * Numerical Analysis
 
 ### Computer Science
 * Task & Data Parallelism
 * Data Structures
-* Databases
+* Experience with Containers
 
 
 Students will be chosen based both on their qualifications and on the alignment of their skills and interests with the focus area of the summer school.  Broadly speaking, we will attempt to create a balanced team with an even distribution of students from the disciplines of physics, applied mathematics, and computer science.
@@ -38,6 +37,4 @@ Los Alamos National Laboratory offers very competitive compensation:
 
 ## Applications
 
-Applications for the 2018 LANL Co-Design Summer School have been closed.
-
-
+Please use the [this form](https://docs.google.com/a/lanl.gov/forms/d/1TxV6uxcFHEowFMNlSuKlgGYua6v6lErZMOtzhAWAznM/) and include your C.V. and a cover letter describing your research interests.
