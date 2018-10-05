@@ -7,9 +7,9 @@ layout: page
 To apply to the summer school, you must
 
 - Be enrolled in a PhD program at an accredited university in a relevant field of study
-- Be available to live and work in Los Alamos, New Mexico for 10 weeks, sometime from mid-May through early September of 2018 (exact dates TBD)
+- Be available to live and work in Los Alamos, New Mexico for 10 weeks, sometime from mid-May through early September of 2019 (exact dates TBD)
 
-## Desired Disciplines for 2018
+## Desired Disciplines for 2019
 
 ### Domain Science
 * Astrophysics
