@@ -27,8 +27,15 @@ Vinay is an alumnus of the 2017 summer school class.
 # Summer School Mentors
 
 ### Reid Priedhorsky
+![](images/reidp.jpg)
 
 HPC-ENV HPC Environments
+
+Reid is a staff scientist at Los Alamos National Laboratory. Prior to Los Alamos, he was a research staff member at IBM Research. He holds a Ph.D. in computer science from the University of Minnesota and a B.A., also in computer science, from Macalester College.
+
+His work focuses on large-scale data analysis from both systems and applications perspectives. Recent lines of research include using social media and web traffic to monitor and forecast the spread of disease as well as developing technology to bring data-intensive computing and user-defined software stacks to existing high-performance computing systems.
+
+In his spare time, he enjoys reading, bicycling, hiking (especially in the mountains and deserts of the American West), tinkering with things, photography, and hanging out with his wife and sons.
 
 ### Wesley Paul Even
 
@@ -52,6 +59,12 @@ CCS-2 Computational Physics and Methods
 
 CCS-7 Applied Computer Science
 
+
+### Li-Ta (Ollie) Lo
+
+CCS-7 Applied Computer Science
+
+Li-Ta Lo a.k.a Ollie received a B.S. in Physics from National Chung-Hsing University in 1995 and a M.S. in Applied Mechanics from National Taiwan University in 1997. He joined Los Alamos National Laboratory in 2003, after working in the semiconductor industry for 4 years. As a multi-disciplined, multi-cultured person, he has enjoyed working with several teams and a diverse set of projects during his career at LANL. His current research interest includes data science, large-scale visualization and analysis, data-parallel programming and software engineering for scientific computing.
 
 
 <!-- ### Irina Demeshko
