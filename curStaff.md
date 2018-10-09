@@ -83,6 +83,12 @@ CCS-2 Computational Physics and Methods
 
 CCS-2 Computational Physics and Methods
 
+### Irina Demeshko
+![](images/irina.jpg)
+
+CCS-7 Applied Computer Science
+
+Irina is a computational scientist the Co-Design Team. Her current research work is currently focused on integrating task-based run-time systems into several software projects at LANL, but, in general, her research interests lay around new HPC technologies in application to large-scale scientific simulation codes.
 
 ### Patricia (Pat) Grubel
 ![](images/grubel.png)
@@ -93,15 +99,8 @@ Pat is a postdoctoral research associate in the Co-design Team. She has a backgr
 
 
 
-<!-- ### Irina Demeshko
-![](images/irina.jpg)
 
-CCS-7 Applied Computer Science
-
-Irina is a computational scientist the Co-Design Team. Her current research work is currently focused on integrating task-based run-time systems into several software projects at LANL, but, in general, her research interests lay around new HPC technologies in application to large-scale scientific simulation codes.
-
-
-### David Gunter
+<!-- ### David Gunter
 ![](images/gunter.jpg)
 
 CCS-7 Applied Computer Science
