@@ -75,6 +75,11 @@ CCS-7 Applied Computer Science
 
 Li-Ta Lo a.k.a Ollie received a B.S. in Physics from National Chung-Hsing University in 1995 and a M.S. in Applied Mechanics from National Taiwan University in 1997. He joined Los Alamos National Laboratory in 2003, after working in the semiconductor industry for 4 years. As a multi-disciplined, multi-cultured person, he has enjoyed working with several teams and a diverse set of projects during his career at LANL. His current research interest includes data science, large-scale visualization and analysis, data-parallel programming and software engineering for scientific computing.
 
+
+### Allen McPherson
+
+CCS-7 Applied Computer Science
+
 ### Irina Sagert
 
 CCS-2 Computational Physics and Methods
