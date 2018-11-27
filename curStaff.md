@@ -77,8 +77,16 @@ Li-Ta Lo a.k.a Ollie received a B.S. in Physics from National Chung-Hsing Univer
 
 
 ### Allen McPherson
+![](images/mcpherson.jpg)
 
 CCS-7 Applied Computer Science
+
+Al is a semi-retired computer scientist working part-time as an Associate Staff Member on the BEE
+project. Prior to retiring in 2015 Al was the CoDesign Team Lead and founder
+of the Los Alamos CoDesign Summer School. Al's current
+technical interest is the potential application of elastic, industrial-scale,
+cloud technologies to HPC. In his (copious) spare time Al enjoys cooking,
+hiking, and traveling with his lovely wife.
 
 ### Irina Sagert
 
