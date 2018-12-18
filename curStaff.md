@@ -111,7 +111,17 @@ CCS-7 Applied Computer Science
 Pat is a postdoctoral research associate in the Co-design Team. She has a background in electrical and computer engineering, future architectures, and performance analysis of task basked runtime systems.  Her current interests lie in modeling and performance optimization of applications using task based systems, cloud computing technologies, and benchmarking new architectures.
 
 
+### Jonah Miller
+![](images/jm-horseshoe-bend.jpg)
 
+
+LANL CNLS Fellow, CCS-2 Computational Physics and Methods
+ 
+Jonah is a computational physicist focusing on relativistic astrophysics. He has experience in scaleable algorithms and methods for astrophysics as well as on integrating complicated microphysics with large fluid codes. His PhD work focused on developing new methods for general relativity simulations. And his postdoctorate work focuses on combining general relativity, highly magnetized plasmas, and neutrino radiation physics to model what happens when two neutron stars merge.
+ 
+Jonah is an alumnus of the 2016 summer school class
+ 
+ 
 
 <!-- ### David Gunter
 ![](images/gunter.jpg)
