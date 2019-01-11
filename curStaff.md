@@ -111,7 +111,7 @@ CCS-7 Applied Computer Science
 Pat is a postdoctoral research associate in the Co-design Team. She has a background in electrical and computer engineering, future architectures, and performance analysis of task basked runtime systems.  Her current interests lie in modeling and performance optimization of applications using task based systems, cloud computing technologies, and benchmarking new architectures.
 
 
-### Jonah Miller
+<!-- ### Jonah Miller
 ![](images/jm-horseshoe-bend.jpg)
 
 
@@ -123,7 +123,7 @@ Jonah is an alumnus of the 2016 summer school class
  
  
 
-<!-- ### David Gunter
+### David Gunter
 ![](images/gunter.jpg)
 
 CCS-7 Applied Computer Science
