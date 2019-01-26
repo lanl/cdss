@@ -37,4 +37,4 @@ Los Alamos National Laboratory offers very competitive compensation:
 
 ## Applications
 
-Please use the [this form](https://docs.google.com/a/lanl.gov/forms/d/1TxV6uxcFHEowFMNlSuKlgGYua6v6lErZMOtzhAWAznM/) and include your C.V. and a cover letter describing your research interests.
+Applications for 2019 Co-Design Summer School are closed.
