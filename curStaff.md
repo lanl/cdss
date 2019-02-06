@@ -92,6 +92,13 @@ hiking, and traveling with his lovely wife.
 
 CCS-2 Computational Physics and Methods
 
+### Andrew Gaspar
+![](images/agaspar.jpg)
+
+CCS-7 Applied Computer Science
+
+Andrew Gaspar is a Computer Scientist in CCS-7 with a focus on Software Engineering. He has a Computer Engineering B.Sc. from the University of Nebraska – Lincoln. After graduating in 2014, he worked at Microsoft on the Network Driver stack in Windows 10, collaborating on a next generation network device driver API geared towards high-throughput network cards. In 2017, he joined Los Alamos. He now works on code modernization efforts in Los Alamos’ established, high-value Eulerian codes, primarily on adoption of C++14 and Kokkos. He also has an interest in the Rust programming language, and researching applications of it to High Performance Computing.
+
 ### Sam Jones
 
 CCS-2 Computational Physics and Methods
