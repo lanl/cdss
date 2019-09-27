@@ -39,6 +39,17 @@ Vinay is an alumnus of the 2017 summer school class.
 
 T-F Applied Mathematics and Plasma Physics
 
+### Karen Tsai
+![](images/ktsai.jpg)
+
+CCS-7 Applied Computer Science
+
+Karen is a computational scientist who is interested in understanding, designing and developing application code with the scientists. She is also a computer scientist who is interested in learning and utilizing modern computing tools to optimize algorithms or visualize complex datasets. She got her M.S. in Computational Science, Engineering and Mathematics and B.S in Computer Science at the University of Texas – Austin.
+ 
+While at LANL during the summer of 2016, Karen joined data scientists from the Data Science at Scale team to work with Galen Gisler of LANL’s Integrated Design & Assessment group to produce visualizations and anaylsis of threats from asteroid ocean impacts. The work is summarized in a paper and video that have been awarded the first place in the SC16 Visualization Showcase.
+Returning to LANL in the following summer of 2017, she worked with the data scientist from the Data Science at Scale team to develop a pattern detection filter in VTK using Fast Fourier Transform. The serial filter is currently in VTK and the distributed filter is in the development phase.
+Continuing at LANL in the fall of 2017 as a Post-Master, she has also joined the Code Design team to work on the Ristra Project specifically for FleCSI.
+
 <!-- 
 ### Reid Priedhorsky
 ![](images/reidp.jpg)
@@ -63,16 +74,7 @@ HPC-DES HPC Design
 
 CCS-2 Computational Physics and Methods
 
-### Karen Tsai
-![](images/ktsai.jpg)
 
-CCS-7 Applied Computer Science
-
-Karen is a computational scientist who is interested in understanding, designing and developing application code with the scientists. She is also a computer scientist who is interested in learning and utilizing modern computing tools to optimize algorithms or visualize complex datasets. She got her M.S. in Computational Science, Engineering and Mathematics and B.S in Computer Science at the University of Texas – Austin.
- 
-While at LANL during the summer of 2016, Karen joined data scientists from the Data Science at Scale team to work with Galen Gisler of LANL’s Integrated Design & Assessment group to produce visualizations and anaylsis of threats from asteroid ocean impacts. The work is summarized in a paper and video that have been awarded the first place in the SC16 Visualization Showcase.
-Returning to LANL in the following summer of 2017, she worked with the data scientist from the Data Science at Scale team to develop a pattern detection filter in VTK using Fast Fourier Transform. The serial filter is currently in VTK and the distributed filter is in the development phase.
-Continuing at LANL in the fall of 2017 as a Post-Master, she has also joined the Code Design team to work on the Ristra Project specifically for FleCSI.
 
 ### Li-Ta (Ollie) Lo
 
