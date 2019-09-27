@@ -14,6 +14,15 @@ Robert is a computational scientist with a background in electrical and computer
 
 Robert is an alumnus of the 2013 and 2014 summer school classes
 
+### Julien Loiseau
+![](images/jloiseau.jpg)
+
+CCS-7 Applied Computer Science
+
+Julien is a Computer Scientist with a background in High Performance Computing and simulation. He has experience in hybrid architectures and accelerated systems.  His postdoctorate work focuses on FleCSPH, a tool for Smoothed Particles Hydrodynamics simulations based on the FleCSI framework from LANL.  The intent is to provide an efficient and distributed tree data structure to FleCSI that allows the work to be offloaded to accelerators. The final goal of FleCSPH is to simulate large Astrophysics events. 
+
+Julien is an alumnus of the 2016 summer school class
+
 ### Vinay Ramakrishnaiah
 ![](images/Vinay.JPG)
 
@@ -26,6 +35,11 @@ Vinay is an alumnus of the 2017 summer school class.
 
 # Summer School Mentors
 
+### David Moulton
+
+T-F Applied Mathematics and Plasma Physics
+
+<!-- 
 ### Reid Priedhorsky
 ![](images/reidp.jpg)
 
@@ -44,15 +58,6 @@ CCS-2 Computational Physics and Methods
 ### Tim Randles
 
 HPC-DES HPC Design
-
-### Julien Loiseau
-![](images/jloiseau.jpg)
-
-CCS-7 Applied Computer Science
-
-Julien is a Computer Scientist with a background in High Performance Computing and simulation. He has experience in hybrid architectures and accelerated systems.  His postdoctorate work focuses on FleCSPH, a tool for Smoothed Particles Hydrodynamics simulations based on the FleCSI framework from LANL.  The intent is to provide an efficient and distributed tree data structure to FleCSI that allows the work to be offloaded to accelerators. The final goal of FleCSPH is to simulate large Astrophysics events. 
-
-Julien is an alumnus of the 2016 summer school class
 
 ### Joshua C Dolence
 
@@ -118,7 +123,7 @@ CCS-7 Applied Computer Science
 Pat is a postdoctoral research associate in the Co-design Team. She has a background in electrical and computer engineering, future architectures, and performance analysis of task basked runtime systems.  Her current interests lie in modeling and performance optimization of applications using task based systems, cloud computing technologies, and benchmarking new architectures.
 
 
-<!-- ### Jonah Miller
+### Jonah Miller
 ![](images/jm-horseshoe-bend.jpg)
 
 

@@ -13,6 +13,12 @@ layout: page
 
 [Email](mailto:rspavel@lanl.gov)
 
+### Julien Loiseau
+
+(505) 665-1301
+
+[Email](mailto:jloiseau@lanl.gov)
+
 ### Vinay Ramakrishnaiah
 
 (505) 665-0611
