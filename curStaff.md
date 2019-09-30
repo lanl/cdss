@@ -28,7 +28,7 @@ Julien is an alumnus of the 2016 summer school class
 
 CCS-7 Applied Computer Science
 
-Vinay is a postdoctoral research associate with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures.
+Vinay is a staff scientist with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures.
 
 Vinay is an alumnus of the 2017 summer school class.
 
