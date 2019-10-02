@@ -37,7 +37,7 @@ Vinay is an alumnus of the 2017 summer school class.
 
 ### David Moulton
 
-T-F Applied Mathematics and Plasma Physics
+T-5 Applied Mathematics and Plasma Physics
 
 ### Karen Tsai
 ![](images/ktsai.jpg)
