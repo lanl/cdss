@@ -15,7 +15,7 @@ Robert is a computational scientist with a background in electrical and computer
 Robert is an alumnus of the 2013 and 2014 summer school classes
 
 ### Julien Loiseau
-![](images/jloiseau.jpg)
+![](images/jloiseau_climbing.jpg)
 
 CCS-7 Applied Computer Science
 
