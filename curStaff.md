@@ -50,6 +50,19 @@ While at LANL during the summer of 2016, Karen joined data scientists from the D
 Returning to LANL in the following summer of 2017, she worked with the data scientist from the Data Science at Scale team to develop a pattern detection filter in VTK using Fast Fourier Transform. The serial filter is currently in VTK and the distributed filter is in the development phase.
 Continuing at LANL in the fall of 2017 as a Post-Master, she has also joined the Code Design team to work on the Ristra Project specifically for FleCSI.
 
+### Andrew Reisner
+![](images/reisner_ment.jpg)
+
+CCS-7 Applied Computer Science
+
+Andrew is a computer scientist with a background in high performance
+computing and numerical analysis.  He has experience in improving the
+performance and scalability of structured multilevel solvers.  His
+interests include parallel numerical algorithms on emerging
+architectures and scalable linear solvers.
+ 
+Andrew is an alumnus of the 2014 summer school class.
+
 <!-- 
 ### Reid Priedhorsky
 ![](images/reidp.jpg)
@@ -156,6 +169,5 @@ Chris is a computational scientist with a background in astrophysics. In particu
 
 XCP-1 Lagrangian Applications
 
-Marc's current research focuses on developing highly-scalable algorithms for multi-material and multi-physics problems that are specifically designed for next-generation computer architectures.  More specifically, he is developing/implementing advanced remapping strategies for arbitrary polygonal meshes.  Prior research at LANL focused on developing high-order methods for Eulerian and ALE hydrodynamics that can be used in conjunction with adaptive mesh refinement and unstructured grids. -->
-
-
+Marc's current research focuses on developing highly-scalable algorithms for multi-material and multi-physics problems that are specifically designed for next-generation computer architectures.  More specifically, he is developing/implementing advanced remapping strategies for arbitrary polygonal meshes.  Prior research at LANL focused on developing high-order methods for Eulerian and ALE hydrodynamics that can be used in conjunction with adaptive mesh refinement and unstructured grids.
+-->
