@@ -60,7 +60,7 @@ computing and numerical analysis.  He has experience in improving the
 performance and scalability of structured multilevel solvers.  His
 interests include parallel numerical algorithms on emerging
 architectures and scalable linear solvers.
- 
+
 Andrew is an alumnus of the 2014 summer school class.
 
 <!-- 
