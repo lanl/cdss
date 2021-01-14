@@ -15,18 +15,17 @@ To apply to the summer school, you must
 ### Machine Learning
  - Expertise in machine learning (ML)
    - Deep understanding of machine learning frameworks such as TensorFlow/Keras, PyTorch, etc.
- - Expertise in High-Performance Computing (HPC)
-   - Shared and distributed memory parallelism
-   - Task-based runtimes
-   - Experience with programming accelerators and co-processors
+   - Experience with reinforcement learning
  - Domain knowledge to express problems in the form of a Markov-Decision Problems (MDP)
    - Focus is most likely a power grid application
 
 ### (Applied) Computer Science
-
-* Performance Portability
-* Computer Architecture
-* GPGPU Programming
+- Expertise in High-Performance Computing (HPC)
+   - Shared and distributed memory parallelism
+   - Task-based runtimes
+   - Experience with programming accelerators and co-processors
+- Performance Portability
+- Computer Architecture
 
 Students will be chosen based both on their qualifications and on the alignment of their skills and interests with the focus area of the summer school.  Broadly speaking, we will attempt to create a balanced team with an even distribution of students from the disciplines of physics, applied mathematics, and computer science.
 
