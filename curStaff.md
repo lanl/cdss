@@ -34,11 +34,6 @@ Vinay is an alumnus of the 2017 summer school class.
 
 
 # Summer School Mentors
-
-### David Moulton
-
-T-5 Applied Mathematics and Plasma Physics
-
 ### Karen Tsai
 ![](images/ktsai.jpg)
 

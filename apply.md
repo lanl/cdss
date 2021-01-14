@@ -10,17 +10,14 @@ To apply to the summer school, you must
 - Be enrolled in a graduate program at an accredited university in a relevant field of study
 - Be available to live and work in Los Alamos, New Mexico for 10 weeks, sometime from mid-May through early September of 2020 (exact dates TBD)
 
-## Desired Disciplines for 2020
+## Desired Disciplines for 2021
 
 ### Domain Science
 
-* Computational Hydrogeologists
-* Computational Hydrologists
+* 
 
 ### Applied Mathematics
 
-* Hydro-dynamics
-* Particle Methods (Interacting)
 * Numerical Analysis
 
 ### Computer Science
@@ -36,8 +33,7 @@ Students will be chosen based both on their qualifications and on the alignment 
 Los Alamos National Laboratory offers very competitive compensation:
 
 * 10 week salary of $9-12K (based on education and experience)
-* Paid relocation costs
 
 ## Applications
 
-Please use the [this form](https://docs.google.com/forms/d/1iHf3ajNonnP8CmAJvW8vlhStfnL_A3Pv8tWmn6gIPjI/) and include your C.V. and a cover letter describing your research interests.
+Please use the [this form](https://docs.google.com/forms/d/e/1FAIpQLScRms45IMB43gY9odoSgshoTzIe4jZsQCqJBolsZ87IU3aY9Q/viewform) and include your C.V. and a cover letter describing your research interests.
