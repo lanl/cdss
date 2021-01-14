@@ -8,7 +8,7 @@ layout: page
 To apply to the summer school, you must
 
 - Be enrolled in a graduate program at an accredited university in a relevant field of study
-- Be available to live and work in Los Alamos, New Mexico for 10 weeks, sometime from mid-May through early September of 2020 (exact dates TBD)
+- Able to work remotely for 10 weeks, sometime from mid-May through early September of 2021 (exact dates TBD)
 
 ## Desired Qualifications for 2021 CDSS
 
