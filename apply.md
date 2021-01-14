@@ -11,6 +11,8 @@ To apply to the summer school, you must
 - Be available to live and work in Los Alamos, New Mexico for 10 weeks, sometime from mid-May through early September of 2020 (exact dates TBD)
 
 ## Desired Qualifications for 2021 CDSS
+
+### Machine Learning
  - Expertise in machine learning (ML)
    - Deep understanding of machine learning frameworks such as TensorFlow/Keras, PyTorch, etc.
  - Expertise in High-Performance Computing (HPC)
@@ -20,16 +22,7 @@ To apply to the summer school, you must
  - Domain knowledge to express problems in the form of a Markov-Decision Problems (MDP)
    - Focus is most likely a power grid application
 
-
-### Domain Science
-
-* 
-
-### Applied Mathematics
-
-* Numerical Analysis
-
-### Computer Science
+### (Applied) Computer Science
 
 * Performance Portability
 * Computer Architecture
