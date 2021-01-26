@@ -61,7 +61,7 @@ Andrew is an alumnus of the 2014 summer school class.
 ### Hyun Lim
 ![](images/hlim_ment.jpg)
 
-CCS-7 Applied Computer Science
+CCS-2 Computational Physics and Methods
 
 Hyun Lim is postdoctorate research associated in CCS-2 with a background gravitational physics, astrophysics, and applied mathematics. He has experiences developing various multi-physics codes both Eulerian and Lagrangian frames to solve problems in astrophysics and magnetohydrodynamics. He also works on scalable numerical methods including adaptive mesh refinement and linear solvers.
 
