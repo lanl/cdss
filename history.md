@@ -39,4 +39,4 @@ Christoph Junghans
 
 Moved on to Management
 
-Christoph is a computational physicist and the current deputy group leader of CCS-7.
+Christoph is a computational physicist and the current group leader of CCS-7.
