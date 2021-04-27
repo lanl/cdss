@@ -37,4 +37,4 @@ Los Alamos National Laboratory offers very competitive compensation:
 
 ## Applications
 
-Please use the [this form](https://docs.google.com/forms/d/e/1FAIpQLScRms45IMB43gY9odoSgshoTzIe4jZsQCqJBolsZ87IU3aY9Q/viewform) and include your C.V. and a cover letter describing your research interests.
+Please check back later in 2021.
