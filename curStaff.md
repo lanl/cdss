@@ -5,15 +5,6 @@ layout: page
 
 # Summer School Leads
 
-### Robert Pavel
-![](images/rspLead.jpg)
-
-CCS-7 Applied Computer Science
-
-Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications.
-
-Robert is an alumnus of the 2013 and 2014 summer school classes
-
 ### Julien Loiseau
 ![](images/jloiseau_climbing.jpg)
 
@@ -34,6 +25,16 @@ Vinay is an alumnus of the 2017 summer school class.
 
 
 # Summer School Mentors
+
+### Robert Pavel
+![](images/rspLead.jpg)
+
+CCS-7 Applied Computer Science
+
+Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications.
+
+Robert is an alumnus of the 2013 and 2014 summer school classes
+
 ### Karen Tsai
 ![](images/ktsai.jpg)
 
