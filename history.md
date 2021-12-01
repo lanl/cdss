@@ -5,6 +5,8 @@ layout: page
 
 # Past Schools and Participants
 
+### [Class of 2021: Optimizing and Extending the Functionality of EXARL for Scalable Reinforcement Learning](2021.html)
+
 ### [Class of 2019: Code Portability and Core Collapse Supernovae](2019.html)
 
 ### [Class of 2018: Tabulated Equation of State](2018.html)
