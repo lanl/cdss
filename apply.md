@@ -18,7 +18,7 @@ To apply to the summer school, you must
 ### Computational scientists
 
 
-Students will be chosen based both on their qualifications and on the alignment of their skills and interests with the focus area of the summer school.  Broadly speaking, we will attempt to create a balanced team with an even distribution of students from the disciplines of physics, applied mathematics, and computer science.
+Students will be chosen based both on their qualifications and on the alignment of their skills and interests with the focus area of the summer school.  Broadly speaking, we will attempt to create a balanced team with an even distribution of students from the desired disciplines. 
 
 ## Compensation
 
