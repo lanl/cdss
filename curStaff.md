@@ -26,6 +26,13 @@ Vinay is an alumnus of the 2017 summer school class.
 
 # Summer School Mentors
 
+### Patrick McCormick
+![](images/patrick-mccormick.jpeg)
+
+CCS-7 Applied Computer Science 
+
+
+
 ### Robert Pavel
 ![](images/rspLead.jpg)
 
