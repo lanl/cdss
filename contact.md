@@ -7,12 +7,6 @@ layout: page
 
 ## Summer School Leads
 
-### Robert Pavel
-
-(505) 665-8384
-
-[Email](mailto:rspavel@lanl.gov)
-
 ### Julien Loiseau
 
 (505) 665-1301
