@@ -75,6 +75,12 @@ Hyun Lim is postdoctorate research associated in CCS-2 with a background gravita
 
 Hyun Lim is an alumnus of the 2016 summer school class.
 
+### Sumathi Lakshmiranganatha
+![](images/sumathi.png)
+
+CCS-7 Applied Computer Science
+Sumathi is a computational scientist with a background in Electrical and Computer Engineering. She has experience in porting and optimization of scientific applications like weather and power grid models on heterogeneous computing architectures. Her research interests include parallel-in-time algorithms on emerging hardware architectures and explainable machine learning models for scientific applications.
+
 <!-- 
 ### Reid Priedhorsky
 ![](images/reidp.jpg)
