@@ -15,7 +15,7 @@ Co-Design is the social and technical equivalent of a multiple-constraint optimi
 
 ## 2022 Co-Design Summer School Focus:
 
-## Hardware/Software co-design. Title TBD.  
+## Hardware/Software co-design for automated hardware pipelining.
 
 The last decade has seen computer systems built from combinations of different processor types to improve performance, meet energy efficiency constraints, and provide unique capabilities for targeted workloads. At the same time, powerful open-source software and hardware projects have opened the door to additional opportunities for exploring the design and construction of tightly coupled software and hardware solutions that can tailor to unique, application-specific requirements. Several open projects span these areas, including the LLVM Compiler Infrastructure (https://llvm.org), the RISC-V instruction set architecture (https://riscv.org), and the Rocket Chip Generator (https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-17.html). Co-design projects like this require a team of members across applications, programming language and compiler design, and system and processor architectures. In general, co-design plays a fundamental role in exploring the pros and cons of the various design choices that software developers and hardware architects can make across a combined software and hardware ecosystem. 
 
