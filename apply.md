@@ -9,7 +9,7 @@ To apply to the summer school, you must
 
 - Be enrolled in a graduate program at an accredited university in a relevant field of study
 - Able to work remotely/onsite in Los Alamos for 10 weeks, sometime from mid-May through early September of 2022 (exact location and dates TBD)
-- The funding sponsors require that the selected candidate is a US Person (United States citizen or alien admitted for permanent residence in the United States), due to the sensitive nature of the work to be performed.
+
 
 ## Desired Qualifications for 2022 CDSS
 
