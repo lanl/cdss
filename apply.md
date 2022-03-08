@@ -27,5 +27,6 @@ Los Alamos National Laboratory offers very competitive compensation:
 * 10 week salary of $9-12K (based on education and experience)
 
 ## Applications
+Applications closed for 2022.
 
-Please use the [this form](https://forms.gle/F11ui2SUGQzLkroT7) and include your C.V. and a cover letter describing your research interests.
+<!-- Please use the [this form](https://forms.gle/F11ui2SUGQzLkroT7) and include your C.V. and a cover letter describing your research interests. -->
