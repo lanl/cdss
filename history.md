@@ -5,18 +5,26 @@ layout: page
 
 # Past CDSS classes
 
-## Class of 2022: 
-
-## Class of 2021: Optimizing and Extending the Functionality of EXARL for Scalable Reinforcement Learning 
+### Class of 2022: Hardware/Software co-design for automated hardware pipelining.
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
-<img src="images/cdss_21_students.png"/> </div>
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2021.pdf"><img src="posters/poster-2021_img.png" alt="Poster 2019"></a></div>
+<img src="images/cdss_22_students.jpeg"/> </div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2022.pdf"><img src="posters/poster-2022.png" alt="Poster 2012"></a></div>
+</div>
+
+Maxim Moraru (University of Reims Champagne Ardenne), Mina Warnet (University of Reims Champagne Ardenne)
+
+### Class of 2021: Optimizing and Extending the Functionality of EXARL for Scalable Reinforcement Learning 
+
+<div style="width:100%; text-align: center; display: table; min-height: 400px; ">
+<div style="display: table-cell; vertical-align: middle; width: 100%; height:50%; text-align:center; ">
+<img src="images/cdss_21_students.png"/> <!--</div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;">--> <a href="posters/poster-2021.pdf"><img src="posters/poster-2021_img.png" alt="Poster 2019"></a></div>
 </div>
 
 
-## Class of 2019: Code Portability and Core Collapse Supernovae
+### Class of 2019: Code Portability and Core Collapse Supernovae
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
@@ -28,7 +36,7 @@ Rathish Ratnasingam (Newcastle University), Suyash Tandon (University of Michiga
 
 
 
-## Class of 2018: Tabulated Equation of State
+### Class of 2018: Tabulated Equation of State
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
@@ -39,7 +47,7 @@ Rathish Ratnasingam (Newcastle University), Suyash Tandon (University of Michiga
 Patrick Payne (Stony Brook University), Frederick Ouellet (University of Florida), Nicholas Stegmeier (South Dakota State University), Diptajyoti Mukherjee (Allegheny College), Sumathi Lakshmiranganatha (University of Wyoming), Dana Akhmetova (KTH Royal Institute of Technology)
 
 
-## Class of 2017: Accelerated Molecular Dynamics
+### Class of 2017: Accelerated Molecular Dynamics
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
@@ -52,7 +60,7 @@ Ying Zhou (University of Loughborough), Vinay Ramakrishnaiah (University of Wyom
 
 
 
-## Class of 2016: Astrophysics - Neutron Star Mergers
+### Class of 2016: Astrophysics - Neutron Star Mergers
 
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
@@ -71,7 +79,7 @@ Nicola de Brye (UV), Daniel George (UIUC), Glenn Hordemann (TAMU), Hyun Lim (BYU
 
 
 
-## Class of 2015: Quantum Molecular Dynamics
+### Class of 2015: Quantum Molecular Dynamics
 
 ![](images/cdss-1.jpg)
 
@@ -79,7 +87,7 @@ Guangjie “Jerry” Shi (UGA), Sergio Pino Gallardo (U. Delaware), Purnima Ghal
 
 
 
-## Class of 2014: Adaptive Mesh Refinement (AMR) for hydrodynamics simulations
+### Class of 2014: Adaptive Mesh Refinement (AMR) for hydrodynamics simulations
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <!-- <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; "> -->
@@ -91,27 +99,27 @@ Guangjie “Jerry” Shi (UGA), Sergio Pino Gallardo (U. Delaware), Purnima Ghal
 <img width="30%" src="images/reisner.jpg"/>
 </div>
 
-<!-- <div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2016.pdf"><img src="posters/poster_2016_img.png" alt="Poster 2019"></a></div>-->
-</div>
+<!-- <div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2016.pdf"><img src="posters/poster_2016_img.png" alt="Poster 2019"></a></div>
+</div>-->
 
 Erin Carrier (UIUC), Ken Czuprynski (UI), Robert Pavel (UD), Pascal Grosset (UU), Robert Bird (Warwick University), Andrew Reisner (UIUC)
 
 
-## Class of 2013: Materials in Extreme Environments
+### Class of 2013: Materials in Extreme Environments
 
 ![](images/class-2013.jpg)
 
 Bertrand Rouet-Leduc (University of Cambridge),  Emmanuel Cieren (CEA), Venmugil Elango (The Ohio State University), Robert S. Pavel (University of Delaware), Axel Y. Rivera (University of Utah),  Dominic Roehm (Universität Stuttgart)
 
 
-## Class of 2012: Scale Bridging Approach to a Steady-state Neutron Transport
+### Class of 2012: Scale Bridging Approach to a Steady-state Neutron Transport
 
 ![](images/di120180029.jpg)
 
 Karthik Murthy (Rice), Emmanuel Cieren (LaBRI, France), Colleen McCarthy (NC State), Nicolas Feltman (CMU), Chris Leibs (CU Boulder), Yijie Wang (University of South Florida)
 
 
-## Class of 2011: Quasi Diffusion Accelerated Monte Carlo
+### Class of 2011: Quasi Diffusion Accelerated Monte Carlo
 
 Han Dong (SUNY Buffalo), Mahesh Ravishankar (Ohio State), Paul Sathre (Virginia
 State),Michael Sullivan (U. Texas Austin), William Taitano (University of New
