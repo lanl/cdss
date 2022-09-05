@@ -9,9 +9,9 @@ layout: page
 <div style="display:inline-block">
 <img src="images/jloiseau_climbing.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
-CCS-7 Applied Computer Science.
+CCS-7 Applied Computer Science.<br>
 
-Julien is a Computer Scientist with a background in High Performance Computing and simulation. He has experience in hybrid architectures and accelerated systems.  His postdoctorate work focuses on FleCSPH, a tool for Smoothed Particles Hydrodynamics simulations based on the FleCSI framework from LANL.  The intent is to provide an efficient and distributed tree data structure to FleCSI that allows the work to be offloaded to accelerators. The final goal of FleCSPH is to simulate large Astrophysics events. 
+Julien is a Computer Scientist with a background in High Performance Computing and simulation. He has experience in hybrid architectures and accelerated systems.  His postdoctorate work focuses on FleCSPH, a tool for Smoothed Particles Hydrodynamics simulations based on the FleCSI framework from LANL.  The intent is to provide an efficient and distributed tree data structure to FleCSI that allows the work to be offloaded to accelerators. The final goal of FleCSPH is to simulate large Astrophysics events. <br>
 
 Julien is an alumnus of the 2016 summer school class.
 </div>
@@ -21,9 +21,9 @@ Julien is an alumnus of the 2016 summer school class.
 <div style="display:inline-block">
 <img src="images/hlim_ment.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
-CCS-2 Computational Physics and Methods
+CCS-2 Computational Physics and Methods. <br>
 
-Hyun Lim is a staff scientist in CCS-2 with a background gravitational physics, astrophysics, and applied mathematics. He has experiences developing various multi-physics codes both Eulerian and Lagrangian frames to solve problems in astrophysics and magnetohydrodynamics. He also works on scalable numerical methods including adaptive mesh refinement and linear solvers.
+Hyun Lim is a staff scientist in CCS-2 with a background gravitational physics, astrophysics, and applied mathematics. He has experiences developing various multi-physics codes both Eulerian and Lagrangian frames to solve problems in astrophysics and magnetohydrodynamics. He also works on scalable numerical methods including adaptive mesh refinement and linear solvers. <br>
 
 Hyun Lim is an alumnus of the 2016 summer school class.
 </div>
@@ -35,9 +35,9 @@ Hyun Lim is an alumnus of the 2016 summer school class.
 <div style="display:inline-block">
 <img src="images/rspLead.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
-CCS-7 Applied Computer Science
+CCS-7 Applied Computer Science. <br>
 
-Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications.
+Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications. <br>
 
 Robert is an alumnus of the 2013 and 2014 summer school classes. He is also one of the previous leads of the summer school.
 
@@ -49,7 +49,7 @@ Robert is an alumnus of the 2013 and 2014 summer school classes. He is also one 
 <div style="display:inline-block">
 <img src="images/ktsai.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
-CCS-7 Applied Computer Science
+CCS-7 Applied Computer Science. <br>
 
 Karen is a computational scientist who is interested in understanding, designing and developing application code with the scientists. She is also a computer scientist who is interested in learning and utilizing modern computing tools to optimize algorithms or visualize complex datasets. She got her M.S. in Computational Science, Engineering and Mathematics and B.S in Computer Science at the University of Texas – Austin.
  
@@ -196,9 +196,9 @@ Marc's current research focuses on developing highly-scalable algorithms for mul
 <div style="display:inline-block">
 <img src="images/al-1.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
-Allen McPherson
+Allen McPherson <br>
 
-R.I.P. (Retired in Paradise)
+R.I.P. (Retired in Paradise) <br>
 
 Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design team.
 
@@ -211,7 +211,7 @@ Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design 
 <div style="display:inline-block">
 <img src="images/junghans.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
-Moved on to Management
+Moved on to Management. <br>
 
 Christoph is a computational physicist and the current group leader of CCS-7.
 
@@ -223,10 +223,9 @@ Christoph is a computational physicist and the current group leader of CCS-7.
 <img src="images/rspLead.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
 
-CCS-7 Applied Computer Science
-Now Mentor of the CDSS. 
+CCS-7 Applied Computer Science. <br>
 
-Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications.
+Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications. <br>
 
 Robert is an alumnus of the 2013 and 2014 summer school classes.
 
@@ -235,11 +234,11 @@ Robert is an alumnus of the 2013 and 2014 summer school classes.
 ### Vinay Ramakrishnaiah
 
 <div style="display:inline-block">
-<img src="images/Vinay.jpg" style="margin-right:15px; width: 50%; float: left;"/>
+<img src="images/Vinay.JPG" style="margin-right:15px; width: 50%; float: left;"/>
 
-CCS-7 Applied Computer Science
+CCS-7 Applied Computer Science. <br>
 
-Vinay was a staff scientist with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures.
+Vinay was a staff scientist with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures. <br>
 
 Vinay is an alumnus of the 2017 summer school class.
 
