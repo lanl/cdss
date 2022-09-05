@@ -13,9 +13,9 @@ To apply to the summer school, you must
 
 ## Desired Qualifications for 2023 CDSS
 
- **Computer Scientists:** HPC, Load Balancing, Kokkos/CUDA/HIP, MPI. 
- **Applied Mathematicians:** Convergence Analysis. 
- **Astrophysicists:** Type Ia supernova, Reaction Network.
+- **Computer Scientists:** HPC, Load Balancing, Kokkos/CUDA/HIP, MPI. 
+- **Applied Mathematicians:** Convergence Analysis. 
+- **Astrophysicists:** Type Ia supernova, Reaction Network.
 
 
 Students will be chosen based both on their qualifications and on the alignment of their skills and interests with the focus area of the summer school.  Broadly speaking, we will attempt to create a balanced team with an even distribution of students from the desired disciplines. 
