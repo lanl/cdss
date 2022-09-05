@@ -12,26 +12,20 @@ CCS-7 Applied Computer Science
 
 Julien is a Computer Scientist with a background in High Performance Computing and simulation. He has experience in hybrid architectures and accelerated systems.  His postdoctorate work focuses on FleCSPH, a tool for Smoothed Particles Hydrodynamics simulations based on the FleCSI framework from LANL.  The intent is to provide an efficient and distributed tree data structure to FleCSI that allows the work to be offloaded to accelerators. The final goal of FleCSPH is to simulate large Astrophysics events. 
 
-Julien is an alumnus of the 2016 summer school class
+Julien is an alumnus of the 2016 summer school class.
 
-### Vinay Ramakrishnaiah
-![](images/Vinay.JPG)
 
-CCS-7 Applied Computer Science
+### Hyun Lim
+![](images/hlim_ment.jpg)
 
-Vinay is a staff scientist with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures.
+CCS-2 Computational Physics and Methods
 
-Vinay is an alumnus of the 2017 summer school class.
+Hyun Lim is a staff scientist in CCS-2 with a background gravitational physics, astrophysics, and applied mathematics. He has experiences developing various multi-physics codes both Eulerian and Lagrangian frames to solve problems in astrophysics and magnetohydrodynamics. He also works on scalable numerical methods including adaptive mesh refinement and linear solvers.
+
+Hyun Lim is an alumnus of the 2016 summer school class.
 
 
 # Summer School Mentors
-
-### Patrick McCormick
-![](images/patrick-mccormick.jpeg)
-
-CCS-7 Applied Computer Science 
-
-
 
 ### Robert Pavel
 ![](images/rspLead.jpg)
@@ -53,6 +47,7 @@ While at LANL during the summer of 2016, Karen joined data scientists from the D
 Returning to LANL in the following summer of 2017, she worked with the data scientist from the Data Science at Scale team to develop a pattern detection filter in VTK using Fast Fourier Transform. The serial filter is currently in VTK and the distributed filter is in the development phase.
 Continuing at LANL in the fall of 2017 as a Post-Master, she has also joined the Code Design team to work on the Ristra Project specifically for FleCSI.
 
+<!-- 
 ### Andrew Reisner
 ![](images/reisner_ment.jpg)
 
@@ -65,21 +60,14 @@ interests include parallel numerical algorithms on emerging
 architectures and scalable linear solvers.
 
 Andrew is an alumnus of the 2014 summer school class.
-
-### Hyun Lim
-![](images/hlim_ment.jpg)
-
-CCS-2 Computational Physics and Methods
-
-Hyun Lim is postdoctorate research associated in CCS-2 with a background gravitational physics, astrophysics, and applied mathematics. He has experiences developing various multi-physics codes both Eulerian and Lagrangian frames to solve problems in astrophysics and magnetohydrodynamics. He also works on scalable numerical methods including adaptive mesh refinement and linear solvers.
-
-Hyun Lim is an alumnus of the 2016 summer school class.
-
+-->
+<!-- 
 ### Sumathi Lakshmiranganatha
 ![](images/Sumathi.png)
 
 CCS-7 Applied Computer Science
 Sumathi is a computational scientist with a background in Electrical and Computer Engineering. She has experience in porting and optimization of scientific applications like weather and power grid models on heterogeneous computing architectures. Her research interests include parallel-in-time algorithms on emerging hardware architectures and explainable machine learning models for scientific applications.
+-->
 
 <!-- 
 ### Reid Priedhorsky
@@ -189,3 +177,54 @@ XCP-1 Lagrangian Applications
 
 Marc's current research focuses on developing highly-scalable algorithms for multi-material and multi-physics problems that are specifically designed for next-generation computer architectures.  More specifically, he is developing/implementing advanced remapping strategies for arbitrary polygonal meshes.  Prior research at LANL focused on developing high-order methods for Eulerian and ALE hydrodynamics that can be used in conjunction with adaptive mesh refinement and unstructured grids.
 -->
+
+
+# Founder
+![](images/al-1.jpg)
+
+Allen McPherson
+
+R.I.P. (Retired in Paradise)
+
+Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design team.
+
+# Previous Leads
+
+### Christoph Junghans
+
+![](images/junghans.jpg)
+
+
+Moved on to Management
+
+Christoph is a computational physicist and the current group leader of CCS-7.
+
+### Robert Pavel
+![](images/rspLead.jpg)
+
+CCS-7 Applied Computer Science
+Now Mentor of the CDSS. 
+
+Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications.
+
+Robert is an alumnus of the 2013 and 2014 summer school classes.
+
+
+### Vinay Ramakrishnaiah
+![](images/Vinay.JPG)
+
+CCS-7 Applied Computer Science
+
+Vinay was a staff scientist with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures.
+
+Vinay is an alumnus of the 2017 summer school class.
+
+# Previous mentors 
+
+<!-- ## 2022 -->
+- Patrick McCormick
+- Nirmal Prajapati
+
+<!-- ![](images/patrick-mccormick.jpeg)
+
+CCS-7 Applied Computer Science -->
