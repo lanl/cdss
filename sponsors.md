@@ -9,7 +9,7 @@ layout: page
 
 Established in 1995, the Advanced Simulation and Computing (ASC) Program supports the U.S. Defense Programs' shift in emphasis from test-based confidence to simulation-based confidence. Under ASC, computer simulation capabilities are developed to analyze and predict the performance, safety, and reliability of nuclear weapons and to certify their functionality.
 
-The summer school receives three quarters of its funding through the Computational Systems & Software Environment (CSSE) Program. The program is managed by Mike Lang.
+The summer school receives three quarters of its funding through the Computational Systems & Software Environment (CSSE) Program. The program is managed by Timothy Randles.
 
 <!--
 ## [ExaLearn](https://github.com/exalearn)
