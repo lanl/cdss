@@ -6,29 +6,34 @@ layout: page
 # Summer School Leads
 
 ### Julien Loiseau
-![](images/jloiseau_climbing.jpg)
+<div style="display:inline-block">
+<img src="images/jloiseau_climbing.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
-CCS-7 Applied Computer Science
+CCS-7 Applied Computer Science.
 
 Julien is a Computer Scientist with a background in High Performance Computing and simulation. He has experience in hybrid architectures and accelerated systems.  His postdoctorate work focuses on FleCSPH, a tool for Smoothed Particles Hydrodynamics simulations based on the FleCSI framework from LANL.  The intent is to provide an efficient and distributed tree data structure to FleCSI that allows the work to be offloaded to accelerators. The final goal of FleCSPH is to simulate large Astrophysics events. 
 
 Julien is an alumnus of the 2016 summer school class.
-
+</div>
 
 ### Hyun Lim
-![](images/hlim_ment.jpg)
+
+<div style="display:inline-block">
+<img src="images/hlim_ment.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
 CCS-2 Computational Physics and Methods
 
 Hyun Lim is a staff scientist in CCS-2 with a background gravitational physics, astrophysics, and applied mathematics. He has experiences developing various multi-physics codes both Eulerian and Lagrangian frames to solve problems in astrophysics and magnetohydrodynamics. He also works on scalable numerical methods including adaptive mesh refinement and linear solvers.
 
 Hyun Lim is an alumnus of the 2016 summer school class.
-
+</div>
 
 # Summer School Mentors
 
 ### Robert Pavel
-![](images/rspLead.jpg)
+
+<div style="display:inline-block">
+<img src="images/rspLead.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
 CCS-7 Applied Computer Science
 
@@ -36,8 +41,13 @@ Robert is a computational scientist with a background in electrical and computer
 
 Robert is an alumnus of the 2013 and 2014 summer school classes. He is also one of the previous leads of the summer school.
 
+</div>
+
+
 ### Karen Tsai
-![](images/ktsai.jpg)
+
+<div style="display:inline-block">
+<img src="images/ktsai.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
 CCS-7 Applied Computer Science
 
@@ -46,6 +56,8 @@ Karen is a computational scientist who is interested in understanding, designing
 While at LANL during the summer of 2016, Karen joined data scientists from the Data Science at Scale team to work with Galen Gisler of LANL’s Integrated Design & Assessment group to produce visualizations and anaylsis of threats from asteroid ocean impacts. The work is summarized in a paper and video that have been awarded the first place in the SC16 Visualization Showcase.
 Returning to LANL in the following summer of 2017, she worked with the data scientist from the Data Science at Scale team to develop a pattern detection filter in VTK using Fast Fourier Transform. The serial filter is currently in VTK and the distributed filter is in the development phase.
 Continuing at LANL in the fall of 2017 as a Post-Master, she has also joined the Code Design team to work on the Ristra Project specifically for FleCSI.
+
+</div>
 
 <!-- 
 ### Andrew Reisner
@@ -180,7 +192,9 @@ Marc's current research focuses on developing highly-scalable algorithms for mul
 
 
 # Founder
-![](images/al-1.jpg)
+
+<div style="display:inline-block">
+<img src="images/al-1.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
 Allen McPherson
 
@@ -188,19 +202,26 @@ R.I.P. (Retired in Paradise)
 
 Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design team.
 
+</div>
+
 # Previous Leads
 
 ### Christoph Junghans
 
-![](images/junghans.jpg)
-
+<div style="display:inline-block">
+<img src="images/junghans.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
 Moved on to Management
 
 Christoph is a computational physicist and the current group leader of CCS-7.
 
+</div>
+
 ### Robert Pavel
-![](images/rspLead.jpg)
+
+<div style="display:inline-block">
+<img src="images/rspLead.jpg" style="margin-right:15px; width: 50%; float: left;"/>
+
 
 CCS-7 Applied Computer Science
 Now Mentor of the CDSS. 
@@ -209,15 +230,20 @@ Robert is a computational scientist with a background in electrical and computer
 
 Robert is an alumnus of the 2013 and 2014 summer school classes.
 
+</div>
 
 ### Vinay Ramakrishnaiah
-![](images/Vinay.JPG)
+
+<div style="display:inline-block">
+<img src="images/Vinay.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
 CCS-7 Applied Computer Science
 
 Vinay was a staff scientist with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures.
 
 Vinay is an alumnus of the 2017 summer school class.
+
+</div>
 
 # Previous mentors 
 
