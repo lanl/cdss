@@ -32,7 +32,7 @@ To capture the energy of the reaction front and the elements produced in nucleos
 
 The goal for the 2023 Co-Design Summer School will be to simulate the burn front of Type Ia supernovae at a large scale platform like Venado, Crossroads or El Capitan.
 The team of students will have to tackle several topics in a Co-Design manner to reach this goal. The computer scientists, applied mathematicians and physicists will work together in Co-Design to add the support for reaction network, efficient load balancing, optimize the code and check the convergence properties.
-As a foundation, the students will use [Parthenon-Hydro](https://github.com/pgrete/parthenon-hydro) which is based on [Parthenon}](https://github.com/lanl/parthenon).  Parthenon is a performance portable block-structured adaptive mesh refinement framework. It adopts Kokkos programming model which allows developers to write performance portable applications targeting all major HPC platforms. 
+As a foundation, the students will use [Parthenon-Hydro](https://github.com/pgrete/parthenon-hydro) which is based on [Parthenon](https://github.com/lanl/parthenon).  Parthenon is a performance portable block-structured adaptive mesh refinement framework. It adopts Kokkos programming model which allows developers to write performance portable applications targeting all major HPC platforms. 
 The Parthenon code will provide a new feature, Sparsity on the Block, which will allow the representation of hollow regions of the domain without allocating memory.
 This feature coupled with the expertise and optimizations on the Nvidia H100 architecture will be the key to reach performances for the burn front simulations at scale. 
 
