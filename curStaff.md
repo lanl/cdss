@@ -5,7 +5,7 @@ layout: page
 
 
 
-# Summer School Leads
+<h1> Summer School Leads </h1>
 
 ### Julien Loiseau
 <div style="display:inline-block">
@@ -30,7 +30,7 @@ Hyun Lim is a staff scientist in CCS-2 with a background gravitational physics, 
 Hyun Lim is an alumnus of the 2016 summer school class.
 </div>
 
-# 2023 Summer School Mentors
+<h1> 2023 Summer School Mentors </h1>
 
 ### Robert Pavel
 
@@ -227,7 +227,7 @@ Marc's current research focuses on developing highly-scalable algorithms for mul
 -->
 
 
-# Founder
+<h1> Founder </h1>
 
 <div style="display:inline-block">
 <img src="images/al-1.jpg" style="margin-right:15px; width: 50%; float: left;"/>
@@ -240,7 +240,7 @@ Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design 
 
 </div>
 
-# Previous Leads
+<h1> Previous Leads </h1>
 
 ### Christoph Junghans
 
@@ -280,7 +280,7 @@ Vinay is an alumnus of the 2017 summer school class.
 
 </div>
 
-# Previous mentors 
+<h1> Previous mentors </h1>
 
 <!-- ## 2022 -->
 - Patrick McCormick
