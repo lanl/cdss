@@ -3,6 +3,8 @@ title: LANL Co-Design Summer School - Current Staff
 layout: page
 ---
 
+
+
 # Summer School Leads
 
 ### Julien Loiseau
@@ -28,7 +30,7 @@ Hyun Lim is a staff scientist in CCS-2 with a background gravitational physics, 
 Hyun Lim is an alumnus of the 2016 summer school class.
 </div>
 
-# Summer School Mentors
+# 2023 Summer School Mentors
 
 ### Robert Pavel
 
@@ -53,15 +55,13 @@ CCS-7 Applied Computer Science. <br>
 
 Karen is a computational scientist who is interested in understanding, designing and developing application code with the scientists. She is also a computer scientist who is interested in learning and utilizing modern computing tools to optimize algorithms or visualize complex datasets. She got her M.S. in Computational Science, Engineering and Mathematics and B.S in Computer Science at the University of Texas – Austin.
  
-While at LANL during the summer of 2016, Karen joined data scientists from the Data Science at Scale team to work with Galen Gisler of LANL’s Integrated Design & Assessment group to produce visualizations and anaylsis of threats from asteroid ocean impacts. The work is summarized in a paper and video that have been awarded the first place in the SC16 Visualization Showcase.
-Returning to LANL in the following summer of 2017, she worked with the data scientist from the Data Science at Scale team to develop a pattern detection filter in VTK using Fast Fourier Transform. The serial filter is currently in VTK and the distributed filter is in the development phase.
-Continuing at LANL in the fall of 2017 as a Post-Master, she has also joined the Code Design team to work on the Ristra Project specifically for FleCSI.
 
 </div>
 
-<!-- 
 ### Andrew Reisner
-![](images/reisner_ment.jpg)
+
+<div style="display:inline-block">
+<img src="images/reisner_ment.jpg" style="margin-right:15px; width: 50%; float: left;"/>
 
 CCS-7 Applied Computer Science
 
@@ -72,14 +72,50 @@ interests include parallel numerical algorithms on emerging
 architectures and scalable linear solvers.
 
 Andrew is an alumnus of the 2014 summer school class.
--->
-<!-- 
+
+</div>
+
 ### Sumathi Lakshmiranganatha
-![](images/Sumathi.png)
+
+<div style="display:inline-block">
+<img src="images/Sumathi.png" style="margin-right:15px; width: 50%; float: left;"/>
 
 CCS-7 Applied Computer Science
 Sumathi is a computational scientist with a background in Electrical and Computer Engineering. She has experience in porting and optimization of scientific applications like weather and power grid models on heterogeneous computing architectures. Her research interests include parallel-in-time algorithms on emerging hardware architectures and explainable machine learning models for scientific applications.
--->
+
+</div>
+
+### Chris Mauney
+
+<!-- <div style="display:inline-block">
+<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
+HPC-ENV: HPC Environments
+<!-- </div> -->
+
+### Philipp Edelmann
+
+<!-- <div style="display:inline-block">
+<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
+CCS-7 Applied Computer Science
+<!-- </div> -->
+
+
+### Nirmal Prajapati
+
+<!-- <div style="display:inline-block">
+<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
+CCS-7 Applied Computer Science
+<!-- </div> -->
+
+### Jamal Mohd-Yusof
+
+<!-- <div style="display:inline-block">
+<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
+CCS-7 Applied Computer Science
+<!-- </div> -->
+
+
+</div>
 
 <!-- 
 ### Reid Priedhorsky
@@ -248,8 +284,4 @@ Vinay is an alumnus of the 2017 summer school class.
 
 <!-- ## 2022 -->
 - Patrick McCormick
-- Nirmal Prajapati
 
-<!-- ![](images/patrick-mccormick.jpeg)
-
-CCS-7 Applied Computer Science -->
