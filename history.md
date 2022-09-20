@@ -10,7 +10,7 @@ layout: page
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
 <img src="images/cdss_22_students.jpeg"/> </div>
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2022.pdf"><img src="posters/poster-2022.png" alt="Poster 2022"></a></div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2022.pdf" target="_blank" ><img src="posters/poster-2022.png" alt="Poster 2022"></a></div>
 </div>
 
 Maxim Moraru (University of Reims Champagne Ardenne), Mina Warnet (University of Reims Champagne Ardenne)
@@ -22,7 +22,7 @@ Maxim Moraru (University of Reims Champagne Ardenne), Mina Warnet (University of
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 100%; height:50%; text-align:center; ">
 <img src="images/cdss_21_students.png"/> <!--</div>
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;">--> <a href="posters/poster-2021.pdf"><img src="posters/poster-2021_img.png" alt="Poster 2021"></a></div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;">--> <a href="posters/poster-2021.pdf" target="_blank"><img src="posters/poster-2021_img.png" alt="Poster 2021"></a></div>
 </div>
 
 <br />
@@ -32,7 +32,7 @@ Maxim Moraru (University of Reims Champagne Ardenne), Mina Warnet (University of
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
 <img src="images/cdss_19_students.jpg"/> </div>
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2019.pdf"><img src="posters/poster_2019_img.png" alt="Poster 2019"></a></div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2019.pdf" target="_blank"><img src="posters/poster_2019_img.png" alt="Poster 2019"></a></div>
 </div>
 
 Rathish Ratnasingam (Newcastle University), Suyash Tandon (University of Michigan), Nicholas Stegmeier (University of Illinois Urbana-Champaign), Vasu Jaganath (University of Wyoming), Elizabeth Carlson (University of Nebraska), Jennifer Ranta (Michigan State University)
@@ -44,7 +44,7 @@ Rathish Ratnasingam (Newcastle University), Suyash Tandon (University of Michiga
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
 <img src="images/cdss_18_students.jpg"/> </div>
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2018.pdf"><img src="posters/poster-2018_img.png" alt="Poster 2018"></a></div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2018.pdf" target="_blank"><img src="posters/poster-2018_img.png" alt="Poster 2018"></a></div>
 </div>
 
 Patrick Payne (Stony Brook University), Frederick Ouellet (University of Florida), Nicholas Stegmeier (South Dakota State University), Diptajyoti Mukherjee (Allegheny College), Sumathi Lakshmiranganatha (University of Wyoming), Dana Akhmetova (KTH Royal Institute of Technology)
@@ -56,7 +56,7 @@ Patrick Payne (Stony Brook University), Frederick Ouellet (University of Florida
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
 <img src="images/coss_17_students.jpg"/> </div>
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2017.pdf"><img src="posters/poster-2017_img.png" alt="Poster 2017"></a></div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2017.pdf" target="_blank"><img src="posters/poster-2017_img.png" alt="Poster 2017"></a></div>
 </div>
 
 
@@ -76,7 +76,7 @@ Ying Zhou (University of Loughborough), Vinay Ramakrishnaiah (University of Wyom
 
 </div>
 
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2016.pdf"><img src="posters/poster_2016_img.png" alt="Poster 2016"></a></div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2016.pdf" target="_blank"><img src="posters/poster_2016_img.png" alt="Poster 2016"></a></div>
 </div>
 
 
@@ -103,7 +103,7 @@ Guangjie “Jerry” Shi (UGA), Sergio Pino Gallardo (U. Delaware), Purnima Ghal
 <img width="30%" src="images/reisner.jpg"/>
 </div>
 
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2016.pdf"><img src="posters/poster-2014_img.png" alt="Poster 2014"></a></div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2014.pdf" target="_blank"><img src="posters/poster-2014_img.png" alt="Poster 2014"></a></div>
 </div>
 
 Erin Carrier (UIUC), Ken Czuprynski (UI), Robert Pavel (UD), Pascal Grosset (UU), Robert Bird (Warwick University), Andrew Reisner (UIUC)
@@ -116,7 +116,7 @@ Erin Carrier (UIUC), Ken Czuprynski (UI), Robert Pavel (UD), Pascal Grosset (UU)
 <div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
 <img src="images/class-2013.jpg"/> </div>
 
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2013.pdf"><img src="posters/poster-2013_img.png" alt="Poster 2013"></a></div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2013.pdf" target="_blank"><img src="posters/poster-2013_img.png" alt="Poster 2013"></a></div>
 </div>
 
 Bertrand Rouet-Leduc (University of Cambridge),  Emmanuel Cieren (CEA), Venmugil Elango (The Ohio State University), Robert S. Pavel (University of Delaware), Axel Y. Rivera (University of Utah),  Dominic Roehm (Universität Stuttgart)
@@ -137,5 +137,4 @@ Han Dong (SUNY Buffalo), Mahesh Ravishankar (Ohio State), Paul Sathre (Virginia
 State),Michael Sullivan (U. Texas Austin), William Taitano (University of New
 Mexico), Jeffery Willert (North Carolina State)
 
-<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2011.pdf"><img src="posters/poster-2011_img.png" alt="Poster 2011"></a></div>
-</div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2011.pdf" target="_blank"><img src="posters/poster-2011_img.png" alt="Poster 2011"></a></div>
