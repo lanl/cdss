@@ -81,6 +81,7 @@ Andrew is an alumnus of the 2014 summer school class.
 <img src="images/Sumathi.png" style="margin-right:15px; width: 50%; float: left;"/>
 
 CCS-7 Applied Computer Science
+
 Sumathi is a computational scientist with a background in Electrical and Computer Engineering. She has experience in porting and optimization of scientific applications like weather and power grid models on heterogeneous computing architectures. Her research interests include parallel-in-time algorithms on emerging hardware architectures and explainable machine learning models for scientific applications.
 
 </div>
@@ -94,10 +95,19 @@ HPC-ENV: HPC Environments
 
 ### Philipp Edelmann
 
-<!-- <div style="display:inline-block">
-<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
+<div style="display:inline-block">
+<img src="images/philipp.jpeg" style="margin-right:15px; width: 50%; float: left;"/>
+
 CCS-7 Applied Computer Science
-<!-- </div> -->
+
+Philipp is a staff scientist in CCS-7 with a background in stellar
+astrophysics, numerical methods for hydrodynamics, and high-performance
+computing. He has experience with implicit solvers for low Mach number
+hydrodynamics, nuclear reaction networks, and spectral methods.
+Currently he is working on developing portable and scalable multiphysics
+applications as part of the Ristra project.
+
+</div>
 
 
 ### Nirmal Prajapati
@@ -114,8 +124,6 @@ CCS-7 Applied Computer Science
 CCS-7 Applied Computer Science
 <!-- </div> -->
 
-
-</div>
 
 <!-- 
 ### Reid Priedhorsky
