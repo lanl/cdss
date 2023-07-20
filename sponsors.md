@@ -22,3 +22,7 @@ To address these challenges, the ExaLearn co-design center provides exascale ML 
 
 The Center for Nonlinear Studies (CNLS) is part of the Los Alamos National Laboratory's Theoretical Division, and it organizes research related to nonlinear and complex systems phenomena. CNLS was formed in October of 1980.
 -->
+
+## [Center for NonLinear Studies](https://cnls.lanl.gov/)
+
+The Center for Nonlinear Studies (CNLS) is part of the Laboratory's Theoretical Division, and it organizes research related to nonlinear and complex systems phenomena. CNLS was formed in October of 1980.
