@@ -5,6 +5,18 @@ layout: page
 
 <h1> Past CDSS classes </h1>
 
+### Class of 2023: Simulation of type Ia supernova burn front at scale.
+
+<div style="width:100%; text-align: center; display: table; min-height: 400px; ">
+<div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
+<img src="images/cdss_23_students.jpeg"/> </div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster-2023.pdf" target="_blank" ><img src="posters/poster-2023_img.png" alt="Poster 2023"></a></div>
+</div>
+
+Nageeb Zaman (Louisiana State University), Alexander Holas (Heidelberg University), Mark Ivan Ugalino (University of Maryland), Landon Dyken (University of Illinois at Chicago)
+
+<br />
+
 ### Class of 2022: Hardware/Software co-design for automated hardware pipelining.
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
