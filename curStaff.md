@@ -95,10 +95,6 @@ applications as part of the Ristra project.
 
 </div>
 
-#### Sam Jones
-
-CCS-2 Computational Physics and Methods
-
 #### Nirmal Prajapati
 
 <!-- <div style="display:inline-block">
@@ -114,61 +110,19 @@ CCS-7 Applied Computer Science
 <!-- </div> -->
 
 <h1> Founder </h1>
-
 <div style="display:inline-block">
 <img src="images/al-1.jpg" style="margin-right:15px; width: 50%; float: left;"/>
-
 Allen McPherson <br>
-
 R.I.P. (Retired in Paradise) <br>
-
 Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design team.
-
 </div>
 
-<h1> Previous Leads </h1>
-
-#### Christoph Junghans
-
-<div style="display:inline-block">
-<img src="images/junghans.jpg" style="margin-right:15px; width: 50%; float: left;"/>
-
-Moved on to Management. <br>
-
-Christoph is a computational physicist and the current group leader of CCS-7.
-
-</div>
-
-#### Robert Pavel
-
-<div style="display:inline-block">
-<img src="images/rspLead.jpg" style="margin-right:15px; width: 50%; float: left;"/>
-
-
-CCS-7 Applied Computer Science. <br>
-
-Robert is a computational scientist with a background in electrical and computer engineering. He has experience in improving the performance of multi-scale physics applications through the use of task based models and NoSQL databases. His interests include evaluating the suitability of modern task based programming models with respect to scientific applications. <br>
-
-Robert is an alumnus of the 2013 and 2014 summer school classes.
-
-</div>
-
-#### Vinay Ramakrishnaiah
-
-<div style="display:inline-block">
-<img src="images/Vinay.JPG" style="margin-right:15px; width: 50%; float: left;"/>
-
-CCS-7 Applied Computer Science. <br>
-
-Vinay was a staff scientist with a background in Electrical and Computer Engineering. He has experience in programming heterogeneous computer systems and is also skilled in antenna theory, signal processing, and optimizations. His research interests include revamping the coherent collection process in time-evolving satellite collector geometries, and also developing and evaluating applications for emerging hardware architectures. <br>
-
-Vinay is an alumnus of the 2017 summer school class.
-
-</div>
+<h1> Previous Leads </h1> 
+- Christoph Junghans
+- Robert Pavel
+- Vinay Ramakrishnaiah
 
 <h1> Previous mentors </h1>
-
-<!-- ## 2022 -->
 - Andrew Gaspar
 - Ben Bergen
 - Chris Malone
@@ -182,4 +136,5 @@ Vinay is an alumnus of the 2017 summer school class.
 - Patricia (Pat) Grubel
 - Patrick McCormick
 - Reid Priedhorsky
+- Sam Jones
 - Wesley Paul Even
