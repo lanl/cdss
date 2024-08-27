@@ -5,6 +5,20 @@ layout: page
 
 <h1> Past CDSS classes </h1>
 
+### Class of 2024: Radiation-Hydrodynamics at scale using FleCSI. 
+
+<div style="width:100%; text-align: center; display: table; min-height: 400px; ">
+<div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
+<img src="images/cdss_24_students.jpeg"/> </div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster_2024.pdf" target="_blank" ><img src="posters/poster_2024_img.png" alt="Poster 2024"></a></div>
+</div>
+
+Sudarshan Neopane (University of Tennessee, Knoxville), Alexander Strack (University of Stuttgart), Yoonsoo Kim (California Institute of Technology), Mammadbaghir Baghirzade (University of Texas at Austin), Farhana Taiyebah (Florida State University), Shihab Shahriar Khan (Michigan State University)
+
+
+<br />
+
+
 ### Class of 2023: Simulation of type Ia supernova burn front at scale.
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
