@@ -30,17 +30,9 @@ Hyun Lim is a staff scientist in CCS-2 with a background gravitational physics, 
 Hyun Lim is an alumnus of the 2016 summer school class.
 </div>
 
-# 2023 Summer School Mentors
+# 2025 Summer School Mentors
 
-#### Karen Tsai
-
-<div style="display:inline-block">
-<img src="images/ktsai.jpg" style="margin-right:15px; width: 50%; float: left;"/>
-
-CCS-7 Applied Computer Science. <br>
-
-Karen is a computational scientist who is interested in understanding, designing and developing application code with the scientists. She is also a computer scientist who is interested in learning and utilizing modern computing tools to optimize algorithms or visualize complex datasets. She got her M.S. in Computational Science, Engineering and Mathematics and B.S in Computer Science at the University of Texas – Austin.
- 
+TBD
 
 </div>
 
@@ -72,13 +64,6 @@ Sumathi is a computational scientist with a background in Electrical and Compute
 
 </div>
 
-#### Chris Mauney
-
-<!-- <div style="display:inline-block">
-<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
-HPC-ENV: HPC Environments
-<!-- </div> -->
-
 #### Philipp Edelmann
 
 <div style="display:inline-block">
@@ -102,13 +87,6 @@ applications as part of the Ristra project.
 CCS-7 Applied Computer Science
 <!-- </div> -->
 
-#### Jamal Mohd-Yusof
-
-<!-- <div style="display:inline-block">
-<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
-CCS-7 Applied Computer Science
-<!-- </div> -->
-
 <h1> Founder </h1>
 <div style="display:inline-block">
 <img src="images/al-1.jpg" style="margin-right:15px; width: 50%; float: left;"/>
@@ -126,11 +104,14 @@ Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design 
 - Andrew Gaspar
 - Ben Bergen
 - Chris Malone
+- Chris Mauney
 - David Gunter
 - Irina Demeshko
 - Irina Sagert
+- Jamal Mohd-Yusof
 - Jonah Miller
 - Joshua C Dolence
+- Karen Tsai 
 - Li-Ta (Ollie) Lo
 - Marc Charest
 - Patricia (Pat) Grubel
