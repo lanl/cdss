@@ -9,7 +9,7 @@ layout: page
 
 Established in 1995, the Advanced Simulation and Computing (ASC) Program supports the U.S. Defense Programs' shift in emphasis from test-based confidence to simulation-based confidence. Under ASC, computer simulation capabilities are developed to analyze and predict the performance, safety, and reliability of nuclear weapons and to certify their functionality.
 
-The summer school receives three quarters of its funding through the Computational Systems & Software Environment (CSSE) Program. The program is managed by Timothy Randles.
+The summer school receives two thirds of its funding through ASC. A third from the Computational Systems & Software Environment (CSSE) Program (managed by John M. Patchett) and a third from the Integrated Code (IC) Program (managed by Jimmy Fung).
 
 <!--
 ## [ExaLearn](https://github.com/exalearn)
@@ -25,4 +25,4 @@ The Center for Nonlinear Studies (CNLS) is part of the Los Alamos National Labor
 
 ## [Center for NonLinear Studies](https://cnls.lanl.gov/)
 
-The Center for Nonlinear Studies (CNLS) is part of the Laboratory's Theoretical Division, and it organizes research related to nonlinear and complex systems phenomena. CNLS was formed in October of 1980.
+The Center for Nonlinear Studies (CNLS) is part of the Laboratory's Theoretical Division, and it organizes research related to nonlinear and complex systems phenomena. CNLS was formed in October of 1980. The CNLS, managed by Chris Fryer, funds a third of the CDSS.
