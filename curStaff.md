@@ -9,7 +9,7 @@ layout: page
 
 #### Julien Loiseau
 <div style="display:inline-block">
-<img src="images/jloiseau_climbing.jpg" style="margin-right:15px; max-height:200px; float: left;"/>
+<img src="images/jloiseau_climbing.jpg" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science.<br>
 
@@ -21,7 +21,7 @@ Julien is an alumnus of the 2016 summer school class.
 #### Hyun Lim
 
 <div style="display:inline-block">
-<img src="images/hlim_ment.jpg" style="margin-right:15px; width: 50%; float: left;"/>
+<img src="images/hlim_ment.jpg" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-2 Computational Physics and Methods. <br>
 
@@ -39,7 +39,7 @@ TBD
 #### Andrew Reisner
 
 <div style="display:inline-block">
-<img src="images/reisner_ment.jpg" style="margin-right:15px; width: 50%; float: left;"/>
+<img src="images/reisner_ment.jpg" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science
 
@@ -56,7 +56,7 @@ Andrew is an alumnus of the 2014 summer school class.
 #### Sumathi Lakshmiranganatha
 
 <div style="display:inline-block">
-<img src="images/Sumathi.png" style="margin-right:15px; width: 50%; float: left;"/>
+<img src="images/Sumathi.png" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science
 
@@ -67,7 +67,7 @@ Sumathi is a computational scientist with a background in Electrical and Compute
 #### Philipp Edelmann
 
 <div style="display:inline-block">
-<img src="images/philipp.jpeg" style="margin-right:15px; width: 50%; float: left;"/>
+<img src="images/philipp.jpeg" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science
 
@@ -89,7 +89,7 @@ CCS-7 Applied Computer Science
 
 <h1> Founder </h1>
 <div style="display:inline-block">
-<img src="images/al-1.jpg" style="margin-right:15px; width: 50%; float: left;"/>
+<img src="images/al-1.jpg" style="margin-right:15px; width: 30%; float: left;"/>
 Allen McPherson <br>
 R.I.P. (Retired in Paradise) <br>
 Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design team.
