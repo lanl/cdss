@@ -24,6 +24,7 @@ Co-Design is the social and technical equivalent of a multiple-constraint optimi
 <img src="images/cdss25_implosion.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 Pb Shell implosion test. Multiple Richtmyer-Meshkov instabilities occur during implosion.
 </div>
+<br>
 
 Predictions of the implosion dynamics and the level of shell distortion induced by hydrodynamic instabilities such as Richtmyer-Meshkov are essential to model contemporary inertial confinement fusion (ICF) experiments. 
 Radiation also plays a key role in these phenomena. 
