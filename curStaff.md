@@ -9,7 +9,7 @@ layout: page
 
 #### Julien Loiseau
 <div style="display:inline-block">
-<img src="images/jloiseau_climbing.jpg" style="margin-right:15px; width: 50%; max-height:500px; float: left;"/>
+<img src="images/jloiseau_climbing.jpg" style="margin-right:15px; width: 50%; max-height:200px; float: left;"/>
 
 CCS-7 Applied Computer Science.<br>
 
