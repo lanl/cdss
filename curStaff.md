@@ -20,7 +20,7 @@ Julien is an alumnus of the 2016 summer school class.
 
 #### Hyun Lim
 
-<div style="display:inline-block">
+<div style="display:inline-block; margin-bottom: 50px;">
 <img src="images/hlim_ment.jpg" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-2 Computational Physics and Methods. <br>
@@ -34,7 +34,7 @@ Hyun Lim is an alumnus of the 2016 summer school class.
 
 #### Andrés Yagüe López 
 
-<div style="display:inline-block">
+<div style="display:inline-block; margin-bottom: 50px;">
 <img src="images/andres_yague_lopez.png" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science
@@ -46,7 +46,7 @@ Andrés is a staff scientist in CCS-7 with a background in numerical methods, so
 
 #### Andrew Reisner
 
-<div style="display:inline-block">
+<div style="display:inline-block; margin-bottom: 50px;">
 <img src="images/reisner_ment.jpg" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science
@@ -65,7 +65,7 @@ Andrew is an alumnus of the 2014 summer school class.
 
 #### Brendan Krueger
 
-<div style="display:inline-block">
+<div style="display:inline-block; margin-bottom: 50px;">
 <!--<img src="images/reisner_ment.jpg" style="margin-right:15px; width: 30%; float: left;"/>-->
 
 CCS-7 Applied Computer Science
@@ -76,7 +76,7 @@ Brendan is a computational scientist with experience in high performance computi
 
 #### Philipp Edelmann
 
-<div style="display:inline-block">
+<div style="display:inline-block; margin-bottom: 50px;">
 <img src="images/philipp.jpeg" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science
@@ -99,7 +99,7 @@ CCS-7 Applied Computer Science
 
 #### Sumathi Lakshmiranganatha
 
-<div style="display:inline-block">
+<div style="display:inline-block; margin-bottom: 50px;">
 <img src="images/Sumathi.png" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science
@@ -108,7 +108,7 @@ Sumathi is a computational scientist with a background in Electrical and Compute
 </div>
 
 <h1> Founder </h1>
-<div style="display:inline-block">
+<div style="display:inline-block; margin-bottom: 50px;">
 <img src="images/al-1.jpg" style="margin-right:15px; width: 30%; float: left;"/>
 Allen McPherson <br>
 R.I.P. (Retired in Paradise) <br>
