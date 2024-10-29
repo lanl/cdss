@@ -34,8 +34,6 @@ Hyun Lim is an alumnus of the 2016 summer school class.
 
 TBD
 
-</div>
-
 #### Andrew Reisner
 
 <div style="display:inline-block">
@@ -53,14 +51,14 @@ Andrew is an alumnus of the 2014 summer school class.
 
 </div>
 
-#### Sumathi Lakshmiranganatha
+#### Brendan Krueger
 
 <div style="display:inline-block">
-<img src="images/Sumathi.png" style="margin-right:15px; width: 30%; float: left;"/>
+<!--<img src="images/reisner_ment.jpg" style="margin-right:15px; width: 30%; float: left;"/>-->
 
 CCS-7 Applied Computer Science
 
-Sumathi is a computational scientist with a background in Electrical and Computer Engineering. She has experience in porting and optimization of scientific applications like weather and power grid models on heterogeneous computing architectures. Her research interests include parallel-in-time algorithms on emerging hardware architectures and explainable machine learning models for scientific applications.
+Brendan is a computational scientist with experience in high performance computing and physical simulations.  He has worked on many projects at LANL, including the Eulerian Applications Project, the Singe thermonuclear reactions library, the Portage remapping library, and the FleCSI framework.  His experience includes implementing physics models, porting code to run on GPUs, and developing software infrastructure to support subject-matter experts in writing their own simulation tools.
 
 </div>
 
@@ -86,6 +84,16 @@ applications as part of the Ristra project.
 <img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
 CCS-7 Applied Computer Science
 <!-- </div> -->
+
+#### Sumathi Lakshmiranganatha
+
+<div style="display:inline-block">
+<img src="images/Sumathi.png" style="margin-right:15px; width: 30%; float: left;"/>
+
+CCS-7 Applied Computer Science
+
+Sumathi is a computational scientist with a background in Electrical and Computer Engineering. She has experience in porting and optimization of scientific applications like weather and power grid models on heterogeneous computing architectures. Her research interests include parallel-in-time algorithms on emerging hardware architectures and explainable machine learning models for scientific applications.
+</div>
 
 <h1> Founder </h1>
 <div style="display:inline-block">
