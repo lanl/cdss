@@ -8,7 +8,7 @@ layout: page
 # Summer School Leads
 
 #### Julien Loiseau
-<div style="display:inline-block">
+<div style="display:inline-block; margin-bottom: 50px;">
 <img src="images/jloiseau_climbing.jpg" style="margin-right:15px; width: 30%; float: left;"/>
 
 CCS-7 Applied Computer Science.<br>
@@ -32,7 +32,17 @@ Hyun Lim is an alumnus of the 2016 summer school class.
 
 # 2025 Summer School Mentors
 
-TBD
+#### Andrés Yagüe López 
+
+<div style="display:inline-block">
+<img src="images/andres_yague_lopez.png" style="margin-right:15px; width: 30%; float: left;"/>
+
+CCS-7 Applied Computer Science
+
+Andrés is a staff scientist in CCS-7 with a background in numerical methods, solar physics and nuclear astrophysics. He has worked in magnetohydrodinamics, nucleosynthesis and galactic chemical evolution simulations, including stiff nuclear networks, developing novel numerical methods for the latter. He is interested in developing simulations that can take full advantage of HPC systems capabilities.
+
+</div>
+
 
 #### Andrew Reisner
 
@@ -50,6 +60,8 @@ architectures and scalable linear solvers.
 Andrew is an alumnus of the 2014 summer school class.
 
 </div>
+
+
 
 #### Brendan Krueger
 
