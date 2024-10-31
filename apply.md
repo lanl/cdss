@@ -9,7 +9,7 @@ To apply to the summer school, you must:
 
 - Be enrolled in a graduate program at an accredited university in a relevant field of study
 - Able to work onsite in Los Alamos for 10 weeks, sometime from mid-May through mid-August of 2025 (exact dates TBD)
-
+- **The School is open to non-U.S. citizens!**
 
 ## Desired Qualifications for 2025 CDSS
 
