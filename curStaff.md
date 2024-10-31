@@ -56,12 +56,11 @@ computing and numerical analysis.  He has experience in improving the
 performance and scalability of structured multilevel solvers.  His
 interests include parallel numerical algorithms on emerging
 architectures and scalable linear solvers.
+<br>
 
 Andrew is an alumnus of the 2014 summer school class.
 
 </div>
-
-
 
 #### Brendan Krueger
 
@@ -82,6 +81,7 @@ Brendan is a computational scientist with experience in high performance computi
 CCS-7 Applied Computer Science
 
 Maxim is a computational scientist in CCS-7 with a background in High-Performance Computing. He has experience in hybrid architectures and HPC runtime systems. His research interests include high-speed communication, dynamic task mapping, and machine learning models. 
+<br>
 
 Maxim is an alumnus of the 2021 and 2022 summer school classes.
 </div>
