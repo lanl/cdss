@@ -74,6 +74,25 @@ Brendan is a computational scientist with experience in high performance computi
 
 </div>
 
+#### Maxim Moraru
+
+<div style="display:inline-block; margin-bottom: 50px;">
+<img src="images/maxim.jpg" style="margin-right:15px; width: 30%; float: left;"/>
+
+CCS-7 Applied Computer Science
+
+Maxim is a computational scientist in CCS-7 with a background in High-Performance Computing. He has experience in hybrid architectures and HPC runtime systems. His research interests include high-speed communication, dynamic task mapping, and machine learning models. 
+
+Maxim is an alumnus of the 2021 and 2022 summer school classes.
+</div>
+
+#### Nirmal Prajapati
+
+<!-- <div style="display:inline-block">
+<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
+CCS-7 Applied Computer Science
+<!-- </div> -->
+
 #### Philipp Edelmann
 
 <div style="display:inline-block; margin-bottom: 50px;">
@@ -89,13 +108,6 @@ Currently he is working on developing portable and scalable multiphysics
 applications as part of the Ristra project.
 
 </div>
-
-#### Nirmal Prajapati
-
-<!-- <div style="display:inline-block">
-<img src="images/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
-CCS-7 Applied Computer Science
-<!-- </div> -->
 
 #### Sumathi Lakshmiranganatha
 
