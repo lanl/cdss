@@ -1,5 +1,65 @@
 ---
 layout: home
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Co-Design Summer School
+subtitle: 
 ---
+
+<img src="/cdss/assets/img/lanldisplaylogo.png" style="display: block; margin-left:auto; margin-right: auto; width:70%;">
+
+<div style="width:100%; display: block;">
+  <img src="/cdss/assets/img/asc.png" style="float:left; margin-left: 25%; margin-right:10%; width:25%;">
+  <img src="/cdss/assets/img/cnls.png" style=" width:15%;">
+</div>
+<br/>
+
+<h3 style="color:red;"> Applications are open until January 10, 2025 </h3>
+
+<h1> 2025 Co-Design Summer School Focus: Model implosion dynamics at scale using FleCSI-HARD </h1>
+
+<br/>
+
+
+<div style="width:100%; text-align: center; display: table;">
+<img src="/cdss/assets/img/cdss25_implosion.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+Pb Shell implosion test. Multiple Richtmyer-Meshkov instabilities occur during implosion.
+</div>
+<br>
+
+Predictions of the implosion dynamics and the level of shell distortion induced by hydrodynamic instabilities such as Richtmyer-Meshkov are essential to model contemporary inertial confinement fusion (ICF) experiments. 
+Radiation also plays a key role in these phenomena. 
+Therefore, detailed radiation hydrodynamics simulations are crucial to understand these phenomena properly. 
+In the Co-Design Summer School (CDSS) 2025, we propose using the FleCSI Hydrodynamics and Radiative Diffusion (FleCSI-HARD) framework to model various implosion dynamics and simulate the instabilities associated with these phenomena.
+FleCSI-HARD is an open-source radiation hydrodynamics code that was developed from FleCSI-SP by the students of CDSS 2024. 
+This code implements a basic flux limited diffusion (FLD) model and a multigrid solver. CDSS 2025 will focus on updating the FleCSI-HARD code and testing it at scale. Details are as follows.
+- More complex radiation hydrodynamics schemes will be implemented for the current code with the addition of different possible closures: radiation energy-pressure relation called Pn, variable Eddington factor, Larsen-FLD, etc.
+- A better set of solvers will be implemented through the use of FleCSolve, a FleCSI-based code supporting Algebraic Multigrid methods.
+- Variable opacity and a time-stepping/integration scheme will be added for better performance and accuracy.
+- The code will then be tested with verification and validation problem setups such as the <a href="https://github.com/lanl/ExactPack"> ExactPack project </a>. The school will model large-scale three-dimensional single and double shell implosion problems with multi-mode instabilities that can be used in ICF studies.
+
+The increasing complexity of supercomputers, in both number of nodes and on-node hybridization, forces us to rethink our approach to high performance computing(HPC).
+Task-based parallelism provides a promising path forward. CDSS 2025 proposes to use the FleCSI framework as a base for the simulations. 
+FleCSI is a compile-time configurable framework from LANL. 
+It supports the development of multiphysics applications and introduces a functional programming model that can use multiple backends such as Legion, MPI, and HPX.
+FleCSI proposes different topologies that are then extended via a specialization, allowing it to target specific problems. LANL’s new, next-generation exascale supercomputer, Venado, combines the new NVIDIA architectures, Grace and Hopper. CDSS 2025 aims to run simulations at scale on Venado.
+
+<div style="width:100%; text-align: center; display: table;">
+<img src="/cdss/assets/img/cdss25_kh.png" style="display: block; margin-top:5%; margin-left: auto; margin-right: auto; width: 50%;">
+Representation of mass density for Kelvin-Helmholtz instability with strong radiation (performed with 10242 resolution on NV V100 GPU) Radiation + Hydrodynamics Simulation using <a href="https://github.com/lanl/hard" >HARD code </a>. 
+</div>
+
+<br>
+
+LA-UR-24-31298
+
+
+<h1> What is the Co-Design Summer School?  </h1>
+
+The Los Alamos National Laboratory Co-Design Summer School was created to train future scientists to work on the kinds of interdisciplinary teams that are demanded by today’s scientific challenges. Launched in 2011, the summer school recruits top candidates in a range of fields spanning domain sciences, applied mathematics, computational and computer sciences, and computer architecture. Participants work together to solve a focused problem that is designed to build the skills needed to tackle the grand challenges of the future. Foremost among the skills on which we focus is the ability of students to work across disciplines with other team members, while employing their own unique expertise. This is the heart of Co-Design.
+
+Past summer school challenges have included problems in kinetic theory (Boltzmann Transport Equation), molecular dynamics, hydrodynamics (Adaptive Mesh Refinement), quantum molecular dynamics, astrophysics (core-collapse supernovae and neutron star mergers), and tabulated equations of state. The summer school is hosted by the Applied Computer Science Group (CCS-7), led by Christoph Junghans.
+
+<h1> What is Co-Design? </h1>
+
+Co-Design is the social and technical equivalent of a multiple-constraint optimization problem. The rapid evolution of computing architectures and the expanding space between specializations in domain science and computer architecture means that it is virtually impossible for a single individual to cover all of the skills needed to solve current-day computational science challenges. Co-Design bridges this space through interactions between members of an interdisciplinary team. With the right amount of overlap, team members can communicate with each other effectively to solve a problem.
+
+
