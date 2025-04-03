@@ -93,6 +93,17 @@ Maxim is an alumnus of the 2021 and 2022 summer school classes.
 CCS-7 Applied Computer Science
 <!-- </div> -->
 
+### Patrick Diehl
+
+<div style="display:inline-block; margin-bottom: 50px;">
+<img src="images/patrick.jpg" style="margin-right:15px; width: 30%; float: left;"/>
+
+CCS-7 Applied Computer Science
+
+Patrick Diehl is a research scientist specializing in Applied Computer Science at Los Alamos National Laboratory and serves as adjunct faculty in the Department of Physics & Astronomy at Louisiana State University. His research interests are Quantum computing, High Performance Computing, and Performance portability. Patrick is committed to teaching high-performance computing to both staff and students, with a broader focus on higher education. He actively contributes to the ISO C++ SG20 working group, where he helps shape the agenda for teaching modern C++.
+</div>
+
+
 #### Philipp Edelmann
 
 <div style="display:inline-block; margin-bottom: 50px;">
