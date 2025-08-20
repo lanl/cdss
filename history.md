@@ -5,6 +5,19 @@ layout: page
 
 <h1> Past CDSS classes </h1>
 
+### Class of 2025: Numerical Investigation of Radiation Hydrodynamic Instabilities at Scale with FleCSI-HARD.
+
+<div style="width:100%; text-align: center; display: table; min-height: 400px; ">
+<div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
+<img src="images/cdss_25_students.jpeg"/> </div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="posters/poster_2025.pdf" target="_blank" ><img src="posters/poster_2025_img.png" alt="Poster 2024"></a></div>
+</div>
+
+Måns Ivar Andersson (KTH Royal Institute of Technology), Moon Bakaya Hazarika (University of Michigan, Ann Arbor), Akshit Himanshubhai Jariwala (The University of Texas at Austin), Isaac Charles Bannerman (Rensselaer Polytechnic Institute), Mandela Bright Quashie (Michigan State University), Jonathan Mathurin (Florida International University)
+
+<br />
+
+
 ### Class of 2024: Radiation-Hydrodynamics at scale using FleCSI. 
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">
