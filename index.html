@@ -12,44 +12,33 @@ subtitle:
 </div>
 <br/>
 
-<h3 style="color:red;"> Applications are open until January <strike>10</strike><br> 19, 2025 </h3>
+<h3 style="color:red;"> Applications are open until January 10 2026 </h3>
 
-<h1> 2025 Co-Design Summer School Focus: Model implosion dynamics at scale using FleCSI-HARD </h1>
+<h1> 2026 Co-Design Summer School Focus: Advancing scale-bridge simulations in high explosive applications using HARD at Scale </h1>
 
 <br/>
 
 
 <div style="width:100%; text-align: center; display: table;">
-<img src="/cdss/assets/img/cdss25_implosion.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-Pb Shell implosion test. Multiple Richtmyer-Meshkov instabilities occur during implosion.
+<img src="/cdss/assets/img/cdss2026_subject.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+Source: Source: Houim, R. W. (2021). A simplified burn model for simulating explosive effects and afterburning. Shock Waves, 31, 851–875.
 </div>
 <br>
 
-Predictions of the implosion dynamics and the level of shell distortion induced by hydrodynamic instabilities such as Richtmyer-Meshkov are essential to model contemporary inertial confinement fusion (ICF) experiments. 
-Radiation also plays a key role in these phenomena. 
-Therefore, detailed radiation hydrodynamics simulations are crucial to understand these phenomena properly. 
-In the Co-Design Summer School (CDSS) 2025, we propose using the FleCSI Hydrodynamics and Radiative Diffusion (FleCSI-HARD) framework to model various implosion dynamics and simulate the instabilities associated with these phenomena.
-FleCSI-HARD is an open-source radiation hydrodynamics code that was developed from FleCSI-SP by the students of CDSS 2024. 
-This code implements a basic flux limited diffusion (FLD) model and a multigrid solver. CDSS 2025 will focus on updating the FleCSI-HARD code and testing it at scale. Details are as follows.
-- More complex radiation hydrodynamics schemes will be implemented for the current code with the addition of different possible closures: radiation energy-pressure relation called Pn, variable Eddington factor, Larsen-FLD, etc.
-- A better set of solvers will be implemented through the use of FleCSolve, a FleCSI-based code supporting Algebraic Multigrid methods.
-- Variable opacity and a time-stepping/integration scheme will be added for better performance and accuracy.
-- The code will then be tested with verification and validation problem setups such as the <a href="https://github.com/lanl/ExactPack"> ExactPack project </a>. The school will model large-scale three-dimensional single and double shell implosion problems with multi-mode instabilities that can be used in ICF studies.
+<p>
+  Many natural and engineered systems, from astrophysical supernovae to nuclear detonations and high-explosive experiments, involve rapid, intense energy release that strongly couples to both hydrodynamic and radiative processes. To understand these phenomena correctly, the study of high-explosive (HE) models is essential. Furthermore, real-world applications span an extraordinary range of spatial and temporal scales, from the submicron chemistry of reaction zones, to the mesoscale dynamics of heterogeneous media, to the macroscale propagation of shock and detonation waves. Many existing works lack the machinery to bridge these scales in a consistent manner. In this work, we propose to incorporate HE physics and multimaterial interface capabilities into HARD, a radiation hydrodynamics code based on the FleCSI framework, to overcome these challenges.
+<p/>
+<p>
+The new framework will accommodate multiple HE-burn models, including programmed burn and reactive burn, by employing an explicit multimaterial formulation. Material interfaces will be captured with a level-set method, while a ghost-fluid approach will enforce the correct pressure and velocity conditions across discontinuities. Leveraging the Singularity-EOS library, each constituent (explosive, product gases, air, etc.) can be described by its own equation of state, preserving numerical stability even in the presence of strong shocks. In parallel, we will augment HARD’s existing hydrodynamic solvers with the additional physics modules required for these capabilities.
+</p>
+<p>
+Validation will be performed on canonical test problems such as shock-tube and Sedov-blast configurations, as well as on experimentally anchored benchmarks including one-dimensional detonation-tube and two-dimensional cylinder-expansion tests. The ExactPack library will be used to compare simulation results against analytical solutions, providing a thorough quantitative assessment of accuracy and robustness.
+</p>
+<p>
+The increasing complexity of supercomputers, in both number of nodes and on-node hybridization, forces us to rethink our approach to high-performance computing (HPC). Task-based parallelism provides a promising path forward. CDSS 2026 proposes to use the FleCSI framework, with HARD, as the basis for the simulations. FleCSI is a compile-time configurable framework from LANL. It supports the development of multiphysics applications and introduces a functional programming model that can use multiple backends such as Legion, MPI, and HPX. FleCSI provides different topologies that are then extended via specialization, allowing it to target specific problems. CDSS 2026 aims to run simulations at scale on LANL’s world-class supercomputers.
+</p>
 
-The increasing complexity of supercomputers, in both number of nodes and on-node hybridization, forces us to rethink our approach to high performance computing(HPC).
-Task-based parallelism provides a promising path forward. CDSS 2025 proposes to use the FleCSI framework as a base for the simulations. 
-FleCSI is a compile-time configurable framework from LANL. 
-It supports the development of multiphysics applications and introduces a functional programming model that can use multiple backends such as Legion, MPI, and HPX.
-FleCSI proposes different topologies that are then extended via a specialization, allowing it to target specific problems. LANL’s new, next-generation exascale supercomputer, Venado, combines the new NVIDIA architectures, Grace and Hopper. CDSS 2025 aims to run simulations at scale on Venado.
-
-<div style="width:100%; text-align: center; display: table;">
-<img src="/cdss/assets/img/cdss25_kh.png" style="display: block; margin-top:5%; margin-left: auto; margin-right: auto; width: 50%;">
-Representation of mass density for Kelvin-Helmholtz instability with strong radiation (performed with 10242 resolution on NV V100 GPU) Radiation + Hydrodynamics Simulation using <a href="https://github.com/lanl/hard" >HARD code </a>. 
-</div>
-
-<br>
-
-LA-UR-24-31298
+LA-UR-25-29849
 
 
 <h1> What is the Co-Design Summer School?  </h1>

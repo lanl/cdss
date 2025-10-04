@@ -86,13 +86,6 @@ Maxim is a computational scientist in CCS-7 with a background in High-Performanc
 Maxim is an alumnus of the 2021 and 2022 summer school classes.
 </div>
 
-#### Nirmal Prajapati
-
-<!-- <div style="display:inline-block">
-<img src="/cdss/assets/img/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
-CCS-7 Applied Computer Science
-<!-- </div> -->
-
 #### Philipp Edelmann
 
 <div style="display:inline-block; margin-bottom: 50px;">
@@ -162,6 +155,7 @@ Al McPherson is a computer scientist and the former lead of the CCS-7 Co-Design 
 - Karen Tsai 
 - Li-Ta (Ollie) Lo
 - Marc Charest
+- Nirmal Prajapati
 - Patricia (Pat) Grubel
 - Patrick McCormick
 - Reid Priedhorsky

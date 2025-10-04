@@ -17,11 +17,4 @@ layout: page
 
 [Email](mailto:hyunlim@lanl.gov)
 
-## Administration
-
-### Erika Maestas
-
-(505) 665-2000
-
-[Email](mailto:emaestas@lanl.gov)
 
