@@ -30,7 +30,7 @@ Hyun Lim is a staff scientist in CAI-1 with a background gravitational physics, 
 Hyun Lim is an alumnus of the 2016 summer school class.
 </div>
 
-# 2025 Summer School Mentors
+# 2026 Summer School Mentors
 
 #### Andrés Yagüe López 
 
@@ -72,6 +72,19 @@ CAI-1 Applied Computer Science
 Brendan is a computational scientist with experience in high performance computing and physical simulations.  He has worked on many projects at LANL, including the Eulerian Applications Project, the Singe thermonuclear reactions library, the Portage remapping library, and the FleCSI framework.  His experience includes implementing physics models, porting code to run on GPUs, and developing software infrastructure to support subject-matter experts in writing their own simulation tools.
 
 </div>
+
+#### Eduardo Lozano
+
+<div style="display:inline-block; margin-bottom: 50px;">
+<img src="/cdss/assets/img/Lozano_Photo.png" style="margin-right:15px; width: 30%; float: left;"/>
+
+T-1 Physics and Chemistry of Materials
+
+
+Eduardo Lozano is a staff scientist in the T-1 group with expertise in shock and detonation physics. His research focuses on continuum reactive modeling of high explosives, multimaterial hydrodynamics, and numerical methods for hyperbolic partial differential equations. He is interested in the development of models and algorithms and their deployment on heterogeneous computing architectures.
+
+</div>
+
 
 #### Maxim Moraru
 
