@@ -3,6 +3,18 @@ title: History
 layout: page
 ---
 
+### Class of 2026: HARD: Leveraging FleCSI for Heterogeneous Multi-Material Hydrodynamics.
+
+<div style="width:100%; text-align: center; display: table; min-height: 400px; ">
+<div style="display: table-cell; vertical-align: middle; width: 50%; height:100%; text-align:center; ">
+<img src="/cdss/assets/img/cdss_26_students.jpeg"/> </div>
+<div style="display: table-cell; vertical-align: middle; width: 50%; height: 100%; test-align:center;"> <a href="/cdss/assets/posters/poster_2026.pdf" target="_blank" ><img src="/cdss/assets/posters/poster_2026_img.png" alt="Poster 2026"></a></div>
+</div>
+
+Korinna Bayer (Heidelberg University), Teresa Boland (Purdue University), Arturo Burgos (University of Illinois Urbana Champaign), Seth Hoisington (Texas A&M University), Timothé Kruk (Université de Reims Champagne-Ardenne), Marco Pasquale (KTH Royal Institute of Technology), Luca Pennati (KTH Royal Institute of Technology)
+
+<br />
+
 ### Class of 2025: Numerical Investigation of Radiation Hydrodynamic Instabilities at Scale with FleCSI-HARD.
 
 <div style="width:100%; text-align: center; display: table; min-height: 400px; ">

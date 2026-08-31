@@ -3,34 +3,7 @@ title: Current Staff
 layout: page
 ---
 
-
-
 # Summer School Leads
-
-#### Julien Loiseau
-<div style="display:inline-block; margin-bottom: 50px;">
-<img src="/cdss/assets/img/jloiseau_climbing.jpg" style="margin-right:15px; width: 30%; float: left;"/>
-
-CAI-1 Applied Computer Science.<br>
-
-Julien is a Computer Scientist with a background in High Performance Computing and simulation. He has experience in hybrid architectures and accelerated systems.  His postdoctorate work focuses on FleCSPH, a tool for Smoothed Particles Hydrodynamics simulations based on the FleCSI framework from LANL.  The intent is to provide an efficient and distributed tree data structure to FleCSI that allows the work to be offloaded to accelerators. The final goal of FleCSPH is to simulate large Astrophysics events. <br>
-
-Julien is an alumnus of the 2016 summer school class.
-</div>
-
-#### Hyun Lim
-
-<div style="display:inline-block; margin-bottom: 50px;">
-<img src="/cdss/assets/img/hlim_ment.jpg" style="margin-right:15px; width: 30%; float: left;"/>
-
-CAI-1 Applied Computer Science.<br>
-
-Hyun Lim is a staff scientist in CAI-1 with a background gravitational physics, astrophysics, and applied mathematics. He has experiences developing various multi-physics codes both Eulerian and Lagrangian frames to solve problems in astrophysics and magnetohydrodynamics. He also works on scalable numerical methods including adaptive mesh refinement and linear solvers. <br>
-
-Hyun Lim is an alumnus of the 2016 summer school class.
-</div>
-
-# 2026 Summer School Mentors
 
 #### Andrés Yagüe López 
 
@@ -43,6 +16,7 @@ Andrés is a staff scientist in CAI-1 with a background in numerical methods, so
 
 </div>
 
+# 2026 Summer School Mentors
 
 #### Andrew Reisner
 
@@ -71,32 +45,6 @@ CAI-1 Applied Computer Science
 
 Brendan is a computational scientist with experience in high performance computing and physical simulations.  He has worked on many projects at LANL, including the Eulerian Applications Project, the Singe thermonuclear reactions library, the Portage remapping library, and the FleCSI framework.  His experience includes implementing physics models, porting code to run on GPUs, and developing software infrastructure to support subject-matter experts in writing their own simulation tools.
 
-</div>
-
-#### Eduardo Lozano
-
-<div style="display:inline-block; margin-bottom: 50px;">
-<img src="/cdss/assets/img/Lozano_Photo.png" style="margin-right:15px; width: 30%; float: left;"/>
-
-T-1 Physics and Chemistry of Materials
-
-
-Eduardo Lozano is a staff scientist in the T-1 group with expertise in shock and detonation physics. His research focuses on continuum reactive modeling of high explosives, multimaterial hydrodynamics, and numerical methods for hyperbolic partial differential equations. He is interested in the development of models and algorithms and their deployment on heterogeneous computing architectures.
-
-</div>
-
-
-#### Maxim Moraru
-
-<div style="display:inline-block; margin-bottom: 50px;">
-<img src="/cdss/assets/img/maxim.jpg" style="margin-right:15px; width: 30%; float: left;"/>
-
-CAI-1 Applied Computer Science
-
-Maxim is a computational scientist in CAI-1 with a background in High-Performance Computing. He has experience in hybrid architectures and HPC runtime systems. His research interests include high-speed communication, dynamic task mapping, and machine learning models. 
-<br>
-
-Maxim is an alumnus of the 2021 and 2022 summer school classes.
 </div>
 
 #### Philipp Edelmann
@@ -133,13 +81,6 @@ CAI-1 Applied Computer Science
 Sumathi is a computational scientist with a background in Electrical and Computer Engineering. She has experience in porting and optimization of scientific applications like weather and power grid models on heterogeneous computing architectures. Her research interests include parallel-in-time algorithms on emerging hardware architectures and explainable machine learning models for scientific applications.
 </div>
 
-#### Thomas Vogel
-
-<!-- <div style="display:inline-block">
-<img src="/cdss/assets/img/nirmal.jpeg" style="margin-right:15px; width: 50%; float: left;"/> -->
-CAI-1 Applied Computer Science
-<!-- </div> -->
-
 
 <h1> Founder </h1>
 <div style="display:inline-block; margin-bottom: 50px;">
@@ -150,6 +91,8 @@ Al McPherson is a computer scientist and the former lead of the CAI-1 Co-Design 
 </div>
 
 <h1> Previous Leads </h1> 
+- Julien Loiseau 
+- Hyun Lim
 - Christoph Junghans
 - Robert Pavel
 - Vinay Ramakrishnaiah
@@ -160,17 +103,22 @@ Al McPherson is a computer scientist and the former lead of the CAI-1 Co-Design 
 - Chris Malone
 - Chris Mauney
 - David Gunter
+- Eduardo Lozano
+- Hyun Lim
 - Irina Demeshko
 - Irina Sagert
 - Jamal Mohd-Yusof
 - Jonah Miller
 - Joshua C Dolence
+- Julien Loiseau
 - Karen Tsai 
 - Li-Ta (Ollie) Lo
 - Marc Charest
+- Maxim Moraru
 - Nirmal Prajapati
 - Patricia (Pat) Grubel
 - Patrick McCormick
 - Reid Priedhorsky
 - Sam Jones
+- Thomas Vogel
 - Wesley Paul Even
